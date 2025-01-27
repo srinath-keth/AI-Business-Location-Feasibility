@@ -83,7 +83,7 @@ categories_with_id = spark.read \
     .option("url", "jdbc:postgresql://mdbinstanceproject.clmkmooaa6hz.us-east-1.rds.amazonaws.com:5432/capstone-project.db") \
     .option("dbtable", "categories") \
     .option("user", "postgres") \
-    .option("password", "123456789") \
+    .option("password", "your-password") \
     .option("sslmode", "prefer") \
     .load()
 
