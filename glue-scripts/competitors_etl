@@ -1,0 +1,218 @@
+import sys
+from awsglue.transforms import *
+from awsglue.utils import getResolvedOptions
+from pyspark.context import SparkContext
+from awsglue.context import GlueContext
+from awsglue.job import Job
+from awsglue.dynamicframe import DynamicFrame
+from pyspark.sql.functions import (
+    col, lit, mean, trim, lower, when, lpad, regexp_replace,
+    format_string
+)
+from pyspark.sql.types import DoubleType, IntegerType, LongType, StringType
+
+# Initialize Glue context
+sc = SparkContext.getOrCreate()
+glueContext = GlueContext(sc)
+spark = glueContext.spark_session
+job = Job(glueContext)
+
+# Set job parameters
+args = getResolvedOptions(sys.argv, ['JOB_NAME'])
+job.init(args['JOB_NAME'], args)
+
+# PostgreSQL connection details
+postgres_url = "jdbc:postgresql://mdbinstanceproject.clmkmooaa6hz.us-east-1.rds.amazonaws.com:5432/capstone-project.db"
+postgres_properties = {
+    "user": "postgres",
+    "password": "your-password",
+    "sslmode": "prefer"
+}
+
+# Step 1: Load competitors data
+competitors_data = glueContext.create_dynamic_frame.from_catalog(
+    database="etl-capstone-project-db",
+    table_name="competitors_with_nearest_station_final_csv"
+)
+competitors_df = competitors_data.toDF()
+
+# Step 2: Clean and format competitors data
+competitors_df = competitors_df \
+    .withColumnRenamed("Census Tract", "census_tract") \
+    .withColumnRenamed("Total Population", "total_population") \
+    .withColumnRenamed("Median Household Income", "median_household_income")
+
+# Format census_tract: Convert scientific notation to proper format
+competitors_df = competitors_df.withColumn(
+    "census_tract",
+    when(
+        col("census_tract").cast(StringType()).rlike("e\\+"),  # Check for scientific notation
+        format_string(
+            "%011d",
+            regexp_replace(col("census_tract"), "e\\+09", "").cast(LongType())
+        )
+    ).otherwise(
+        lpad(
+            regexp_replace(col("census_tract"), "\\.0$", ""),
+            11,
+            '0'
+        )
+    )
+)
+
+# Step 3: Load and prepare area data
+area_data = glueContext.create_dynamic_frame.from_options(
+    connection_type="s3",
+    connection_options={"paths": ["s3://capstone-project-etl/raw-data-initial-data/census_tract_area.csv"]},
+    format="csv",
+    format_options={"withHeader": True}
+).toDF()
+
+# Format area data
+area_data = area_data \
+    .withColumnRenamed("GEOID", "census_tract_area") \
+    .withColumnRenamed("Area (sq miles)", "area_sq_miles")
+
+# Convert scientific notation in area_sq_miles to regular number
+area_data = area_data.withColumn(
+    "area_sq_miles",
+    col("area_sq_miles").cast(DoubleType())
+)
+
+# Step 4: Join datasets with aliases
+merged_df = competitors_df.alias("comp").join(
+    area_data.alias("area"),
+    col("comp.census_tract") == col("area.census_tract_area"),
+    "left"
+)
+
+# Preserve competitors' census_tract and rename area data columns
+merged_df = merged_df.withColumnRenamed("census_tract_area", "census_tract_area_data")
+
+# Step 5: Calculate population density
+merged_df = merged_df.withColumn(
+    "population_density",
+    when(
+        col("total_population").isNotNull() & 
+        col("area_sq_miles").isNotNull() & 
+        (col("area_sq_miles") > 0),
+        col("total_population").cast(DoubleType()) / col("area_sq_miles")
+    ).otherwise(None)
+)
+
+# Step 6: Map business types
+business_types_df = spark.read \
+    .format("jdbc") \
+    .option("url", postgres_url) \
+    .option("dbtable", "business_types") \
+    .option("user", postgres_properties["user"]) \
+    .option("password", postgres_properties["password"]) \
+    .option("sslmode", postgres_properties["sslmode"]) \
+    .load()
+
+business_types_df = business_types_df.withColumn("business_type_name", trim(lower(col("business_type_name"))))
+merged_df = merged_df.withColumn("type", trim(lower(col("type"))))
+
+merged_df = merged_df.join(
+    business_types_df,
+    merged_df["type"] == business_types_df["business_type_name"],
+    "left"
+).drop("type", "business_type_name")
+
+# Step 7: Calculate spending adjustments
+income_mean = merged_df.select(mean("median_household_income").alias("mean_income")).collect()[0]["mean_income"]
+
+spending_config = {
+    'total_spending_adjusted': 64835,
+    'housing_adjusted': 12188,
+    'healthcare_adjusted': 10373,
+    'food_and_beverages_adjusted': 4708,
+    'gas_and_energy_adjusted': 1320,
+    'other_spending_adjusted': 36245
+}
+
+for col_name, per_capita_spending in spending_config.items():
+    merged_df = merged_df.withColumn(
+        col_name,
+        (col("median_household_income") / lit(income_mean) * lit(per_capita_spending) * col("total_population")).cast(DoubleType())
+    )
+
+# Step 8: Distance and foot traffic calculations
+merged_df = merged_df.withColumn(
+    "distance_to_station_km", 
+    (col("distance_to_station") / 1000).cast(DoubleType())
+)
+merged_df = merged_df.withColumn(
+    "foot_traffic_proxy", 
+    lit(1) / (col("distance_to_station_km") + lit(1))
+)
+
+# Step 9: Calculate weighted rating
+merged_df = merged_df.withColumn(
+    "weighted_rating",
+    when(
+        (col("rating").isNotNull()) & (col("user_ratings_total").isNotNull()),
+        (col("rating") * col("user_ratings_total")) / (col("user_ratings_total") + lit(1))
+    ).otherwise(lit(0))
+)
+
+# Step 10: Calculate aggregate sentiment
+merged_df = merged_df.withColumn(
+    "aggregate_sentiment",
+    when(
+        (col("top_review_sentiment").isNotNull()) & (col("low_review_sentiment").isNotNull()),
+        (col("top_review_sentiment") + col("low_review_sentiment")) / 2
+    ).otherwise(
+        when(
+            col("top_review_sentiment").isNotNull(),
+            col("top_review_sentiment")
+        ).when(
+            col("low_review_sentiment").isNotNull(),
+            col("low_review_sentiment")
+        ).otherwise(lit(0))
+    )
+)
+
+# Step 11: Prepare final dataset
+final_df = merged_df.select(
+    col("comp.property_id"), 
+    col("comp.name"), 
+    col("business_type_id"), 
+    col("rating"), 
+    col("user_ratings_total"),
+    col("weighted_rating"), 
+    col("aggregate_sentiment"), 
+    col("business_age"), 
+    col("latitude"),
+    col("longitude"), 
+    col("distance_to_station_km"), 
+    col("foot_traffic_proxy"),
+    col("total_spending_adjusted"), 
+    col("housing_adjusted"),
+    col("healthcare_adjusted"), 
+    col("food_and_beverages_adjusted"),
+    col("gas_and_energy_adjusted"), 
+    col("other_spending_adjusted"),
+    col("comp.census_tract"),# Preserve original competitors census_tract
+    col("comp.total_population"),         # Add total_population
+    col("comp.total_aadt"),
+    col("comp.median_household_income"),
+)
+
+# Step 12: Write to PostgreSQL
+final_dynamic_frame = DynamicFrame.fromDF(final_df, glueContext, "final_competitors_data")
+
+glueContext.write_dynamic_frame.from_options(
+    frame=final_dynamic_frame,
+    connection_type="postgresql",
+    connection_options={
+        "url": postgres_url,
+        "dbtable": "competitors",
+        "user": postgres_properties["user"],
+        "password": postgres_properties["password"],
+        "sslmode": postgres_properties["sslmode"]
+    },
+    transformation_ctx="write_final_competitors"
+)
+
+job.commit()
