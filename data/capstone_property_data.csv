@@ -1,0 +1,542 @@
+Property_id,Price,Category,Square_foot,Address,City,State,Zip Code,Property_link,Latitude,Longitude
+1,1895491,retail,9634,1100 Lucretia Ave, San Jose, CA ,95122,https://www.crexi.com/properties/1531468/california-quik-stop?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.3299966,-121.8570394
+2,2050000,retail,9634,153 E 11th St, Tracy, CA ,95376,https://www.crexi.com/properties/1636411/california-valero?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.7399142,-121.4227383
+3,682000,restaurant,4594,200 American Canyon Rd, American Canyon, CA ,94503,https://www.crexi.com/properties/1603017/california-chicken-guy-leasehold?recommId=b95fe73a5b335b4a10d3481f19e66ac3,38.1654707,-122.2518213
+4,1950000,restaurant,4500,1195 Admiral Callaghan Ln, Vallejo, CA ,94591,https://www.crexi.com/properties/1557650/california-chipotle?recommId=b95fe73a5b335b4a10d3481f19e66ac3,38.1369756,-122.2150081
+5,135000,restaurant,3758,2015 Lafayette St, Santa Clara, CA ,95050,https://www.crexi.com/properties/1648285/california-restaurant-bar?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.3607542,-121.9479865
+6,1140000,retail,2278,211 S J St, Livermore, CA ,94550,https://www.crexi.com/properties/1642175/california-freestanding-building-available-for-sale?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.6806522,-121.7685784
+7,1751077,retail,8900,1601 French Camp Turnpike, Stockton, CA ,95206,https://www.crexi.com/properties/1614587/california-1601-french-camp-turnpike?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.9344119,-121.2942544
+8,3950000,retail,3278,1109 W Tennyson Rd, Hayward, CA ,94544,https://www.crexi.com/properties/1283045/california-mobil-gas-station-1109-w-tennyson-rd-hayward-ca?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.6315651,-122.0761849
+9,495000,restaurant,3294,1 E San Fernando St, San Jose, CA ,95113,https://www.crexi.com/properties/1659721/california-recroom-san-jose?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.3346731,-121.8887824
+10,8235000,restaurant,4594,5705 Lone Tree Wy, Antioch, CA ,94531,https://www.crexi.com/properties/1647470/california-chick-fil-a?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.9620987,-121.7407851
+11,4250000,restaurant,5637,601 Carolyn Weston Blvd, Stockton, CA ,95206,https://www.crexi.com/properties/1516603/california-7-eleven?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.9125173,-121.2953048
+12,998000,retail,2634,131 J St, Fremont, CA ,94536,https://www.crexi.com/properties/1529509/california-131-j-st?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.5760654,-121.9772328
+13,2184714,services,11104,340 Mission Ridge Dr, Manteca, CA ,95337,https://www.crexi.com/properties/1195439/california-preschool-business-for-sale-in-manteca-ca?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.7865493,-121.2194977
+14,2224064,retail,11304,187 Eleventh St, Tracy, CA ,95376,https://www.crexi.com/properties/1640389/california-187-eleventh-st?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.7399119,-121.423118
+15,1830564,retail,9304,1632 B St, Hayward, CA ,94541,https://www.crexi.com/properties/1656454/california-1632-b-st?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.6797478,-122.0718711
+16,899000,restaurant,7524,360 E William St, San Jose, CA ,95112,https://www.crexi.com/properties/1212399/california-Retail-property-for-sale-in-san-jose-close-to-downtown?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.3320854,-121.8771296
+17,99000,retail,1700,4399 Aplicella Ct 53, Manteca, CA ,95337,https://www.crexi.com/properties/1496187/california-4399-aplicella-ct-53?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.7769665,-121.2978314
+18,400000,retail,320,4801 3rd St, San Francisco, CA ,94124,https://www.crexi.com/properties/1634085/california-4801-third-street?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.7345444,-122.3906054
+19,400000,restaurant,5637,17400 Monterey Rd 1B, Morgan Hill, CA ,95037,https://www.crexi.com/properties/1576633/california-grinds-vines-and-automobiles?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.1290242,-121.6529886
+20,4900000,restaurant,9875,7700 Moreland St, Stockton, CA ,95212,https://www.crexi.com/properties/1584292/california-independent-gas-station-with-c-store?recommId=b95fe73a5b335b4a10d3481f19e66ac3,38.0207559,-121.2604247
+21,799000,retail,4469,2020 Brush St, Oakland, CA ,94612,https://www.crexi.com/properties/1651761/california-2020-brush-st?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.811555,-122.2753578
+22,5500000,retail,28375,2515 Somersville Rd, Antioch, CA ,94509,https://www.crexi.com/properties/1660725/california-2515-somersville-road?recommId=b95fe73a5b335b4a10d3481f19e66ac3,38.0002186,-121.8385581
+23,3367000,Services,30510,205 Stockton St, Manteca, CA ,95337,https://www.crexi.com/properties/1664755/california-205-255-stockton-st?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.7951725,-121.2189094
+24,1325000,restaurant,5426,21567 Mission Blvd, Hayward, CA ,94541,https://www.crexi.com/properties/1652456/california-labella-pools?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.6795877,-122.0937672
+25,1200000,restaurant,5604,1274 Dupont Ct, Manteca, CA ,95336,https://www.crexi.com/properties/1648985/california-1274-dupont-ct-manteca-business-centre?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.787022,-121.194617
+26,3980000,retail,14375,1990 S El Camino Real, San Mateo, CA ,94403,https://www.crexi.com/properties/1645938/california-1990-s-el-camino-real?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.5484212,-122.3104446
+27,1500000,restaurant,5508,1 Engle Rd, San Mateo, CA ,94402,https://www.crexi.com/properties/1636354/california-1-engle-rd?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.5693644,-122.3347251
+28,1500000,restaurant,5508,4 W Santa Inez Ave, San Mateo, CA ,94402,https://www.crexi.com/properties/1636286/california-4-west-santa-inez?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.5692931,-122.3345993
+29,13050000,Services,90000,1192 Vanderbilt Cir, Manteca, CA ,95337,https://www.crexi.com/properties/1632793/california-1192-vanderbilt-cir-manteca-ca?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.7853795,-121.2117935
+30,12750000,office,103128,5253 Business Center Dr, Fairfield, CA ,94534,https://www.crexi.com/properties/1573375/california-green-valley-tech-plaza?recommId=b95fe73a5b335b4a10d3481f19e66ac3,38.2122634,-122.1479215
+31,16000000,Restaurant,63108,5500 E 2nd St, Benicia, CA ,94510,https://www.crexi.com/properties/1573367/california-5500-east-2nd-st?recommId=b95fe73a5b335b4a10d3481f19e66ac3,38.0815805,-122.117156
+32,4000000,services,5600,4138 Dyer St, Union City, CA ,94587,https://www.crexi.com/properties/1560855/california-alverado-professional-center?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.58838,-122.0702007
+33,5895000,retail,23580,2521 Somersville Rd, Antioch, CA ,94509,https://www.crexi.com/properties/1554493/california-savers?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.9998669,-121.838736
+34,1150000,restaurant,5500,297 San Bruno Ave E, San Bruno, CA ,94066,https://www.crexi.com/properties/1534075/california-297-san-bruno-avenue-east?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.6309724,-122.4105216
+35,1245000,retail,1504,851 Van Ness Ave, San Francisco, CA ,94109,https://www.crexi.com/properties/1516634/california-851-van-ness-ave?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.7835301,-122.4213204
+36,21900000,retail,73167,1280 Willow Pass Rd, Concord, CA ,94520,https://www.crexi.com/properties/1505678/california-hobby-lobby-guitar-center?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.9666617,-122.0525766
+37,6443478,retail,14740,14280 San Pablo Ave, San Pablo, CA ,94806,https://www.crexi.com/properties/1501469/california-walgreens-san-pablo-ca?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.9645808,-122.344508
+38,875000,office,6932,4749 Bennett Dr, Livermore, CA ,94551,https://www.crexi.com/properties/1500347/california-4749-bennett-drive-suite-f?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.6986098,-121.7361422
+39,949000,retail,4250,531 Georgia St, Vallejo, CA ,94590,https://www.crexi.com/properties/1457405/california-531---537-georgia-st?recommId=b95fe73a5b335b4a10d3481f19e66ac3,38.1009025,-122.2538899
+40,2900000,Services,15553,1213 Fell St, San Francisco, CA ,94117,https://www.crexi.com/properties/1409670/california-1213-1217-fell-street?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.7737352,-122.4381865
+41,995000,retail,3500,3731 MacArthur Blvd, Oakland, CA ,94619,https://www.crexi.com/properties/1311681/california-3731-macarthur-boulevard?recommId=b95fe73a5b335b4a10d3481f19e66ac3,37.791607,-122.199039
+42,2200000,retail,2226,4050 Alder Ave, Fremont, CA ,94536,https://www.crexi.com/properties/1663774/california-4050-alder-ave-fremont-ca-94536,37.5620607,-122.0160482
+43,3925925,retail,13855,15650 San Pablo Ave, San Pablo, CA ,94806,https://www.crexi.com/properties/1572461/california-walgreens-san-francisco-msa-44m-rental-increase-in-2027,37.9912385,-122.3315894
+44,2725974,services,13855,Bancroft Ave, San Leandro, CA ,94577,https://www.crexi.com/properties/1279534/california-preschool-business-for-sale-in-san-leandro-ca,37.7254041,-122.1471028
+45,2975000,restaurant,6016,3359 26th St, San Francisco, CA ,94110,https://www.crexi.com/properties/1206802/california-3359-26th-street,37.7489738,-122.4172932
+46,8500000,mixed use,9721,241 El Camino Real, Menlo Park, CA ,94025,https://www.crexi.com/properties/1583364/california-241-el-camino-real-menlo-park,37.4484873,-122.1747773
+47,1075000,retail,1110,1152 E Julian St, San Jose, CA ,95116,https://www.crexi.com/properties/1331141/california-freestanding-corner-Retail-building,37.350755,-121.8711818
+48,5350000,mixed use,17334,3485 Brookside Rd, Stockton, CA ,95219,https://www.crexi.com/properties/1461495/california-3485-brookside-road,37.9858588,-121.3563968
+49,4688000,retail,4200,3401 El Camino Real, Palo Alto, CA ,94306,https://www.crexi.com/properties/1192541/california-palo-alto-ca-Retail-or-office-building,37.4197581,-122.1350182
+50,1100000,services,1000,3283 Mt Everest Dr, San Jose, CA ,95127,https://www.crexi.com/properties/1511681/california-sweet-home-adult-residential-care-facility-arf,37.3527551,-121.8073931
+51,18350000,office,108010,490 Chadbourne Rd, Fairfield, CA ,94534,https://www.crexi.com/properties/769407/california-busch-campus-park,38.2347654,-122.0820492
+52,2200000,mixed use,7078,1448 23rd Ave, Oakland, CA ,94606,https://www.crexi.com/properties/1193616/california-1448-23rd-ave,37.7840786,-122.2351868
+53,3775000,restaurant,6364,537 Valencia St, San Francisco, CA ,94110,https://www.crexi.com/properties/1553557/california-537-valencia-st,37.7643105,-122.4216746
+54,2895000,services,108010,19842 Lake Chabot Rd, Castro Valley, CA ,94546,https://www.crexi.com/properties/1629502/california-owner-user-medical-office-with-parking,37.6999441,-122.0874234
+55,7000000,office,32551,7 Mount Lassen Drive, San Rafael, CA ,94903,https://www.crexi.com/properties/1170956/california-7-mount-lassen-drive,38.0261248,-122.5694874
+56,7500000,office,23100,555 Northgate Dr, San Rafael, CA ,94903,https://www.crexi.com/properties/1171381/california-555-northgate-drive,38.0005875,-122.5439036
+57,1450000,services,6271,435 W Benjamin Holt Dr, Stockton, CA ,95207,https://www.crexi.com/properties/1509582/california-435-w-benjamin-holt-drive,38.0121135,-121.3171902
+58,2398000,mixed use,6600,2110 Ashby Ave, Berkeley, CA ,94705,https://www.crexi.com/properties/1556518/california-2110-ashby-avenue,37.8552001,-122.2658983
+59,7780000,services,26840,5859 Foothill Blvd, Oakland, CA ,94605,https://www.crexi.com/properties/1174892/california-seminary-point,37.7714549,-122.1908569
+60,2557753,mixed use,13000,528 Capitol St, Vallejo, CA ,94590,https://www.crexi.com/properties/1120221/california-528-capitol-st,38.1033898,-122.2555097
+61,1549000,mixed use,4083,1251-1255 Vicente St, San Francisco, CA ,94116,https://www.crexi.com/properties/1576408/california-1251-155-vicente-street,37.738863,-122.480593
+62,2100000,retail,3700,2001 17th St, San Francisco, CA ,94103,https://www.crexi.com/properties/1083471/california-2001-17th-street,37.7645544,-122.4036982
+63,1980000,office,2218,46356 Warm Springs Blvd, Fremont, CA ,94539,https://www.crexi.com/properties/1084981/california-medical-officeclinic,37.4931238,-121.9309116
+64,11000000,retail,39400,550 Showers Dr, Mountain View, CA ,94040,https://www.crexi.com/properties/1654714/california-rare-ground-lease---prime-mountain-view-location,37.4025568,-122.109573
+65,949000,retail,7300,307 G St, Antioch, CA ,94509,https://www.crexi.com/properties/935829/california-307-g-st-antioch-ca,38.0158961,-121.8134426
+66,1350000,office,2850,425 Boulder Ct, Pleasanton, CA ,94566,https://www.crexi.com/properties/1572503/california-425-boulder-court,37.6717646,-121.8642758
+67,11500000,retail,11000,2 Park Rd, Burlingame, CA ,94010,https://www.crexi.com/properties/1323801/california-crosby-n-gray-mortuary,37.5751153,-122.342797
+68,4000000,office,11032,19080 Lomita Ave, Sonoma, CA ,95476,https://www.crexi.com/properties/1613183/california-19080-lomita-ave,38.301226,-122.4742889
+69,9500000,office,37461,975 Terra Bella Ave, Mountain View, CA ,94043,https://www.crexi.com/properties/987405/california-975-terra-bella-avenue,37.4080685,-122.0722927
+70,5990000,retail,28058,889-909 W A Street, Hayward,CA,94541,https://www.crexi.com/properties/1490266/california-889-909-w-a-street,37.6660881,-122.1168899
+71,1300000,office,2648,17770 Monterey Road, Morgan Hill, CA ,95037,https://www.crexi.com/properties/1202047/california-17770-monterey-road,37.1336287,-121.6568513
+72,1264990,retail,2365,2231 Fortune Dr, San Jose, CA ,95131,https://www.crexi.com/properties/1662993/california-2231-fortune-drive-unit-c,37.4017128,-121.887492
+73,1350000,restaurant,1472,1236 Park St, Alameda, CA ,94501,https://www.crexi.com/properties/1531943/california-1236-park-street,37.7614923,-122.2444963
+74,7140000,Office,17793,500 Boulder Ct, Pleasanton, CA ,94566,https://www.crexi.com/properties/1419830/california-for-sale-net-leased-investment-opportunity,37.6708493,-121.8625577
+75,11500000,office,31701,1054 S De Anza Blvd, San Jose, CA ,95129,https://www.crexi.com/properties/1643728/california-1054-s-de-anza-boulevard,37.3086201,-122.0316895
+76,5418888,retail,16500,1193 Admiral Callaghan Ln, Vallejo, CA ,94591,https://www.crexi.com/properties/1102975/california-cvs-vallejo-sf-bay-area-rare-18-year-ground-lease,38.1367933,-122.2142509
+77,2950000,office,10780,1242 Market St, San Francisco, CA ,94102,https://www.crexi.com/properties/1279625/california-1242-market,37.778287,-122.41565
+78,4500000,services,10400,16705 Butterfield Blvd, Morgan Hill, CA ,95037,https://www.crexi.com/properties/1625738/california-16705-butterfield-blvd---church-facility,37.1234945,-121.6423067
+79,9970000,retail,46083,2711-2799 Lone Tree Wy, Antioch, CA ,94509,https://www.crexi.com/properties/1282256/california-terrace-shopping-center,37.995195,-121.806543
+80,15880000,services,15018,841 San Bruno Ave W, San Bruno, CA ,94066,https://www.crexi.com/properties/1329902/california-davita-dialysis---san-bruno-bay-area-california,37.6280526,-122.4178404
+81,1400000,office,3066,3163 Independence Dr, Livermore, CA ,94550,https://www.crexi.com/properties/1172525/california-3163-independence-drive,37.7078347,-121.8122435
+82,1899000,retail,12125,200 N Front St, Rio Vista, CA ,94571,https://www.crexi.com/properties/1577903/california-matt-roberts-commercial,38.1576108,-121.6896617
+83,11000000,Retail,19800,1252 Lawrence Station Rd, Sunnyvale, CA ,94089,https://www.crexi.com/properties/1030410/california-1252-lawrence-station-rd-1256-lawrence-station-rd,37.4052515,-121.9952509
+84,1000000,retail,2157,1019 Solano Ave, Albany, CA ,94706,https://www.crexi.com/properties/1640264/california-1019-solano-ave,37.8902788,-122.3002188
+85,5400000,retail,13611,1545 Pacific Ave, San Francisco, CA ,94109,https://www.crexi.com/properties/1219022/california-1545-pacific-ave,37.7948953,-122.4206638
+86,2499000,mixed use,6000,5201-5205 Mission St, San Francisco, CA ,94112,https://www.crexi.com/properties/1576159/california-5201-5205-mission-street,37.715029,-122.441782
+87,1100000,retail,1160,1906 Polk St, San Francisco, CA ,94109,https://www.crexi.com/properties/1408425/california-1906-polk-street,37.7943959,-122.4212744
+88,3995000,retail,4250,17 W Washington St, Stockton, CA ,95202,https://www.crexi.com/properties/1198341/california-17-w-washington-st,37.9506766,-121.2915441
+89,2575000,Services,46000,2071 Ringwood Ave, San Jose, CA ,95131,https://www.crexi.com/properties/1055019/california-lhc-enterprises-inc,37.392534,-121.8987747
+90,11000000,services,27140,200 Packet Landing Rd, Alameda, CA ,94502,https://www.crexi.com/properties/1207513/california-harbor-bay-club,37.7476679,-122.2399107
+91,4365000,office,14900,145 Town & Country Dr, Danville,CA,94526,https://www.crexi.com/properties/845469/california-125-135-145-town-country-drive,37.8136323,-121.9998338
+92,1905000,retail,1575,4325 Macdonald Ave, Richmond, CA ,94805,https://www.crexi.com/properties/1227229/california-take-5,37.9332772,-122.3283999
+93,6500000,office,22551,1793 Lafayette St, Santa Clara, CA ,95050,https://www.crexi.com/properties/1443749/california-the-lofts---creative-officeflex-building,37.357689,-121.9468666
+94,1450000,retail,2500,880 N 10th St, San Jose, CA ,95112,https://www.crexi.com/properties/1198031/california-880-n-10th,37.357672,-121.8933063
+95,9750000,office,16946,2200 Laurelwood Rd, Santa Clara, CA ,95054,https://www.crexi.com/properties/1534289/california-excellent-owner-user-opportunity-with-freeway-visibility,37.3837226,-121.9637108
+96,600000,office,906,1754 Technology Dr, San Jose, CA ,95110,https://www.crexi.com/properties/1521133/california-1754-technology-drive-ste-244-san-jose-ca-95110,37.3695398,-121.9189772
+97,3600000,restaurant,6500,485 N 1st St, San Jose, CA ,95112,https://www.crexi.com/properties/1496308/california-485-n-1st-st,37.3443105,-121.8972308
+98,8641000,retail,7730,11 Professional Center Pkwy, San Rafael, CA ,94903,https://www.crexi.com/properties/1632968/california-guidepost-montessori,38.0102136,-122.540223
+99,2200000,office,11700,145 N Redwood Dr, San Rafael, CA ,94903,https://www.crexi.com/properties/1652588/california-145-n-redwood-dr,38.023428,-122.53764
+100,950000,services,1000,919 Story Rd Suite 184, San Jose, CA ,95122,https://www.crexi.com/properties/1643771/california-grace-image-nature-collection,37.331153,-121.858191
+101,1335600,office,4240,4749 Bennett Dr, Livermore, CA ,94551,https://www.crexi.com/properties/852957/4749-bennet-drive-suite-k,37.6986098,-121.7361422
+102,1600000,office,6765,17760 Monterey Hwy, Morgan Hill, CA ,95037,https://www.crexi.com/properties/1202043/california-17760-monterey-road,37.1390315,-121.6618076
+103,3480000,Services,21188,290 Hegenberger Rd, Oakland, CA ,94621,https://www.crexi.com/properties/1217272/california-290-hegenberger-rd,37.7334968,-122.1975512
+104,2150000,office,2524,1210 E Arques Ave, Sunnyvale, CA ,94085,https://www.crexi.com/properties/1584358/california-arques-plaza,37.3797979,-121.9944069
+105,2950000,office,10070,3666 Grand Ave, Oakland, CA ,94610,https://www.crexi.com/properties/1656096/california-3664-3666-grand-ave,37.8161485,-122.2452261
+106,5900000,retail,16395,20 Cosmo Place, San Francisco, CA ,94109,https://www.crexi.com/properties/1277916/california-20-cosmo-place,37.7882282,-122.4124221
+107,4130000,Restaurant,16520,25393 Huntwood Ave, Hayward, CA ,94544,https://www.crexi.com/properties/1570201/california-25393-huntwood-ave,37.6500175,-122.0823696
+108,3395000,retail,9197,882 Geary St, San Francisco, CA ,94109,https://www.crexi.com/properties/1546079/california-882-geary-street,37.786346,-122.417807
+109,499000,retail,1581,1149 E Market St, Stockton, CA ,95205,https://www.crexi.com/properties/1532451/california-market-on-market,37.9542817,-121.2754424
+110,5575000,retail,17160,532-536 Sutter Street, San Francisco, CA ,94102,https://www.crexi.com/properties/1533728/california-532-536-sutter-street,37.789421,-122.409312
+111,3468000,retail,8160,2170 Oakland Rd, San Jose, CA ,95131,https://www.crexi.com/properties/1662987/california-2170-oakland-rd,37.3982028,-121.9020778
+112,4000000,office,6000,440 N Central Ave, Campbell, CA ,95008,https://www.crexi.com/properties/1500333/california-440-n-centra-avenue-campbell-ca,37.293506,-121.9433441
+113,658900,retail,1198,959 Story Rd Bldg H 2nd floor(5210), San Jose, CA ,95122,https://www.crexi.com/properties/1532588/california-959-story-rd-bldg-h-2nd-floor5210,37.3324894,-121.8588518
+114,798600,retail,1210,959 Story Rd Bldg H (5115), San Jose, CA ,95122,https://www.crexi.com/properties/1532563/california-959-story-rd-bldg-h-5115,37.3324894,-121.8588518
+115,6042300,office,2584,1571 Carob Ln, Los Altos, CA ,94024,https://www.crexi.com/properties/1307903/california-1571-carob-lane,37.353875,-122.087704
+116,2249000,office,2732,257 E Campbell Ave, Campbell, CA ,95008,https://www.crexi.com/properties/1666645/california-campbell-avenue,37.2872883,-121.9452154
+117,15000000,Services,623779,12201 Valpico Rd, Tracy, CA ,95377,https://www.crexi.com/properties/1532046/california-valpico-corral-hollow-corner-property,37.711473,-121.4561554
+118,2575000,Services,128147,1530 W San Carlos St, San Jose, CA ,95126,https://www.crexi.com/properties/1001133/california-midtown-san-jose-multi-family-redevelopment,37.3226662,-121.9182616
+119,658900,retail,1198,959 Story Rd Bldg H 2nd floor(5260), San Jose, CA ,95122,https://www.crexi.com/properties/1532610/california-959-story-rd-bldg-h-2nd-floor5260,37.3324894,-121.8588518
+120,1495000,retail,2700,456 E Hedding St, San Jose, CA ,95112,https://www.crexi.com/properties/1198060/california-456-e-hedding,37.3578874,-121.8935037
+121,7490000,retail,21755,7201 Pacific Ave, Stockton, CA ,95207,https://www.crexi.com/properties/1632408/california-high-traffic-contiguous-lots-7277-7233-7201-pacific-ave,38.0148591,-121.3226037
+122,2812400,retail,7120,1061 Serpentine Ln, Pleasanton, CA ,94566,https://www.crexi.com/properties/1572480/california-1061-serpentine-lane,37.6690658,-121.8679132
+123,924500,office,1696,17977 Sonoma Hwy, Sonoma, CA ,95476,https://www.crexi.com/properties/840788/california-17977-sonoma-hwy,38.3154177,-122.4819424
+124,7488000,office,14628,5150 Graves Ave, San Jose, CA ,95129,https://www.crexi.com/properties/1229134/california-west-valley-professional-center---bldgs-11-12,37.2936539,-121.993215
+125,652850,retail,1187,959 Story Rd Bldg H  2nd floor(5200), San Jose, CA ,95122,https://www.crexi.com/properties/1532583/california-959-story-rd-bldg-h-2nd-floor5200,37.3324894,-121.8588518
+126,3900000,restaurant,5500,525 Commercial St, San Francisco, CA ,94111,https://www.crexi.com/properties/746444/california-525-commercial-st,37.7942681,-122.4018296
+127,4900000,office,7500,1550 Steiner St, San Francisco, CA ,94115,https://www.crexi.com/properties/1408402/california-1550-steiner-st,37.7836367,-122.4341078
+128,3200000,restaurant,6500,2350 Webster St, Oakland, CA ,94612,https://www.crexi.com/properties/1317180/california-broadway-turnkey-auto-repair-facility,37.8130465,-122.2646355
+129,1400000,retail,3800,91 Charter Oak Ave, San Francisco, CA ,94124,https://www.crexi.com/properties/1501233/california-91-charter-oak-avenue,37.7368551,-122.4045812
+130,463000,retail,1152,1055 Soscol Ferry Rd - Unit C-103, Napa, CA ,94558,https://www.crexi.com/properties/1615426/california-napa-vault---unit-c-103,38.2398182,-122.2741399
+131,14500000,retail,50474, 6604 - 6632 Dublin Blvd, Dublin, CA ,94568,https://www.crexi.com/properties/1231983/california-6500-6604---6632-dublin-blvd,37.703378,-121.9106105
+132,2052826,retail,2258,1504 Pacific Ave, Stockton, CA ,95204,https://www.crexi.com/properties/1551692/california-jack-in-the-box---stockton-ca,37.9672659,-121.2978407
+133,470000,retail,1152,1055 Soscol Ferry Rd - A-107, Napa, CA ,94558,https://www.crexi.com/properties/1615379/california-napa-vault---unit-a-107,38.2398182,-122.2741399
+134,3995000,retail,14500,6017 International Blvd, Oakland, CA ,94621,https://www.crexi.com/properties/1509275/california-6017-international,37.7643662,-122.1986383
+135,3090000,mixed use,10943,2712-2726 Park Blvd, Oakland, CA ,94606,https://www.crexi.com/properties/1282570/california-2712-2726-park-blvd,37.8021461,-122.2411467
+136,3925000,services,6945,602 E Santa Clara St, San Jose, CA ,95112,https://www.crexi.com/properties/1217129/california-602-e-santa-clara-st,37.3420416,-121.877741
+137,7988800,retail,12427,348 Fourth Ave, Redwood City, CA ,94063,https://www.crexi.com/properties/1636719/california-duplicate,37.4718478,-122.205558
+138,6400000,retail,16834,2641 Mission St, San Francisco, CA ,94110,https://www.crexi.com/properties/1553536/california-2641-mission-street,37.7547946,-122.4185067
+139,3565000,services,6271,12891 Byron Hwy, Byron, CA ,94514,https://www.crexi.com/properties/1578078/california-borba-ranch,37.899705,-121.636518
+140,4500000,office,13952,4145 Blackhawk Plaza Cir, Danville, CA ,94506,https://www.crexi.com/properties/1073902/california-4145-blackhawk-plaza-circle,37.8020471,-121.9190419
+141,499950,restaurant,5725,1126 E 11th St, Oakland, CA ,94606,https://www.crexi.com/properties/1651374/california-two-adjacent-commercialresi-lots-with-shipping-containers,37.7901075,-122.2501342
+142,750000,office,2137,690 Pinnacle Pl, Livermore, CA ,94550,https://www.crexi.com/properties/1469559/california-690-pinnacle-place,37.7019339,-121.7003726
+143,3100000,Office,6271,Via Vespero, San Jose, CA ,95120,https://www.crexi.com/properties/1641514/california-evans-ranch,37.1662853,-121.8222218
+144,8995000,Services,71874,2560 Fontaine Rd, San Jose, CA ,95121,https://www.crexi.com/properties/1491073/california-fontaine-road,37.3171197,-121.8285178
+145,1399999,retail,4242,1260 A St, Hayward, CA ,94541,https://www.crexi.com/properties/1629073/california-1260-a-st,37.6772151,-122.0796087
+146,455000,retail,1152,1055 Soscol Ferry Road, Napa, CA ,94558,https://www.crexi.com/properties/1618058/california-napa-vault---unit-c-118,38.2398182,-122.2741399
+147,1100000,restaurant,6427,2225 Monte Diablo Ave, Stockton, CA ,95203,https://www.crexi.com/properties/1634535/california-standalone-Retail-10yr-lease-with-sherwin-williams,37.9576861,-121.327771
+148,4400000,retail,3826,1020 S Winchester Blvd, San Jose, CA ,95128,https://www.crexi.com/properties/1290397/california-1020-s-winchester-blvd-san-jose,37.3086632,-121.9496804
+149,1967502,Services,10000,1322 S El Dorado St building 1, Stockton, CA ,95206,https://www.crexi.com/properties/1664442/california-1322-south-el-dorado,37.9394949,-121.285954
+150,4500000,retail,10000,1550 Wallace Ave, San Francisco, CA ,94124,https://www.crexi.com/properties/1281801/california-1550-wallace-avenue,37.7272655,-122.3902219
+151,820000,retail,1832,2092 Concourse Dr, San Jose, CA ,95131,https://www.crexi.com/properties/1470893/california-lundy-plaza,37.3964252,-121.8890874
+152,836880,retail,1268,959 Story Rd Bldg H 1st floor(5175), San Jose, CA ,95122,https://www.crexi.com/properties/1532579/california-959-story-rd-bldg-h-1st-floor5175,37.3324894,-121.8588518
+153,2191600,retail,11139,1086 Grand Ave, South San Francisco, CA ,94080,https://www.crexi.com/properties/1537397/california-1086-grand-avenue-south-san-francisco,37.660407,-122.437154
+154,150000,retail,1817,1217 W March Ln, Stockton, CA ,95207,https://www.crexi.com/properties/1448826/california-ssongs-hotdog,37.9905982,-121.321683
+155,658900,retail,1198,959 Story Rd Suite 5225, San Jose, CA ,95122,https://www.crexi.com/properties/1532596/california-959-story-rd-bldg-h-2nd-floor5225,37.3328726,-121.8584133
+156,1700000,office,2600,27 S 13th St, San Jose, CA ,95112,https://www.crexi.com/properties/1543761/california-27-29-s-13th-street,37.3414056,-121.878061
+157,2998000,office,10570,1900 Mountain Blvd, Oakland, CA ,94611,https://www.crexi.com/properties/1405588/california-1900-mountain-blvd---compass-space,37.8291144,-122.2106368
+158,2500000,restaurant,5080,320 S 3rd St, San Jose, CA ,95112,https://www.crexi.com/properties/1062007/california-320-s-3rd-st,37.3322019,-121.8844258
+159,658900,retail,1198,959 Story Rd Suite 5270, San Jose, CA ,95122,https://www.crexi.com/properties/1532612/california-bldg-h-2nd-floor-5270,37.3328726,-121.8584133
+160,455000,retail,1152,1055 Soscol Ferry Rd, Napa,CA,94558,https://www.crexi.com/properties/1616128/california-napa-vault---unit-c-107,38.2398182,-122.2741399
+161,5498000,restaurant,5498,889 McLellan Drive, South San Francisco, CA ,94080,https://www.crexi.com/properties/1304101/california-889-mclellan-drive-south-san-francisco-ca,37.665494,-122.445247
+162,1800000,retail,9846,987 B St, Hayward, CA ,94541,https://www.crexi.com/properties/1634160/california-987-b-street,37.6725155,-122.0827237
+163,16000000,office,74508,4637 Chabot Dr, Pleasanton, CA ,94588,https://www.crexi.com/properties/1036480/california-chabot-center,37.6924388,-121.9006395
+164,8000000,Office,20754,815 Warrington Ave, Redwood City, CA ,94063,https://www.crexi.com/properties/1291412/california-815---831-warrington-ave,37.4824844,-122.2061158
+165,1800000,office,2218,46356 Warm Springs Blvd, Fremont, CA ,94539,https://www.crexi.com/properties/1584361/california-46356-warm-springs-blvd-suite-872,37.4931238,-121.9309116
+166,3500000,services,7200,6147 Geary Blvd, San Francisco, CA ,94121,https://www.crexi.com/properties/820229/california-fully-approved-adaptive-reuse,37.7798991,-122.4853905
+167,2200000,restaurant,2500,1160 El Camino Real, San Carlos, CA ,94070,https://www.crexi.com/properties/1188263/california-owneruser-opportunity,37.49964,-122.2517628
+168,2213440,retail,11250,37753 Niles Blvd, Fremont, CA ,94536,https://www.crexi.com/properties/1129262/california-37753-niles-blvd,37.5761822,-121.9761992
+169,2995750,retail,11983,2155 S 10th St, San Jose, CA ,95112,https://www.crexi.com/properties/1310926/california-south-10th-street-condos,37.309405,-121.857235
+170,4400000,retail,3826,1020 S Winchester Blvd, San Jose, CA ,95128,https://www.crexi.com/properties/1290399/california-1020-s-winchester-blvd-san-jose,37.3086632,-121.9496804
+171,2660000,services,4400,414-416 Cortland Ave, San Francisco, CA ,94110,https://www.crexi.com/properties/1656607/california-414-416-cortland-ave,37.738904,-122.417345
+172,2700000,retail,8658,2818 N Main St, Walnut Creek, CA ,94597,https://www.crexi.com/properties/1325122/california-2818-north-main-st-walnut-creek-ca,37.9250179,-122.0626072
+173,2100000,services,7840,2317 Santa Clara Ave, Alameda, CA ,94501,https://www.crexi.com/properties/1576046/california-2317-santa-clara,37.7657823,-122.2425915
+174,1650000,retail,3754,2156 Ringwood Ave, San Jose, CA ,95131,https://www.crexi.com/properties/1662990/california-2156-ringwood-avenue,37.3980005,-121.8974794
+175,615000,retail,1171,97 E St James St, San Jose, CA ,95112,https://www.crexi.com/properties/1518517/california-97-saint-james-prime-downtown-location,37.3402198,-121.8910805
+176,798600,retail,1210,959 Story Rd Bldg H 1st floor(5165), San Jose, CA ,95122,https://www.crexi.com/properties/1532573/california-959-story-rd-bldg-h-1st-floor5165,37.3324894,-121.8588518
+177,3000000,retail,3500,5607 Pacific Ave, Stockton, CA ,95207,https://www.crexi.com/properties/1280242/california-aspen-dental,38.0007626,-121.316951
+178,3856697,Services,19602,125 Aspen Dr, Pacheco, CA ,94553,https://www.crexi.com/properties/1499358/california-125-aspen-drive,37.986282,-122.070354
+179,3850000,office,17500,18 S Second St, San Jose, CA ,95113,https://www.crexi.com/properties/1422392/california-the-globe,37.3361512,-121.8888574
+180,4195000,office,14400,215 Gateway Rd. W., Napa, CA ,94558,https://www.crexi.com/properties/1187989/california-215-gateway-rd-w,38.2236635,-122.2641968
+181,8250000,Services,43333,2615 Marina Blvd, San Leandro, CA ,94577,https://www.crexi.com/properties/1573523/california-the-newport-apartments,37.7024525,-122.1870159
+182,658900,retail,1198,959 Story Rd Bldg H 2nd floor(5215), San Jose, CA ,95122,https://www.crexi.com/properties/1532591/california-959-story-rd-bldg-h-2nd-floor5215,37.3324894,-121.8588518
+183,3645000,retail,12700,2710-2726 Park Blvd, Oakland, CA ,94606,https://www.crexi.com/properties/1282129/california-2710-2726-park-blvd,37.8022011,-122.2412891
+184,3424323,retail,21304,2150 W Alpine Ave, Stockton, CA ,95204,https://www.crexi.com/properties/1654807/california-dollar-general-market,37.9714836,-121.3315443
+185,677600,retail,1232,959 Story Rd Bldg H 2nd floor(5205), San Jose, CA ,95122,https://www.crexi.com/properties/1532587/california-959-story-rd-bldg-h-2nd-floor5205,37.3324894,-121.8588518
+186,6950000,office,19000,1550 Leigh Ave, San Jose, CA ,95125,https://www.crexi.com/properties/1636551/california-1550-leigh-ave,37.294839,-121.9222242
+187,480000,restaurant,2500,1133 E Harding Way, Stockton,CA,95205,https://www.crexi.com/properties/1410521/two-parcels-mixed-use-with-spacious-lot,37.9701943,-121.2796725
+188,2350000,office,23123,4545 Georgetown Pl, Stockton, CA ,95207,https://www.crexi.com/properties/274295/california-georgetown-plaza,37.9889766,-121.3135456
+189,879000,office,1640,2040 Jefferson St, Napa, CA ,94559,https://www.crexi.com/properties/1518246/california-2040-jefferson-st,38.3061491,-122.2948003
+190,7000000,office,36024,7655 Redwood Blvd, Novato, CA ,94945,https://www.crexi.com/properties/1506707/california-7655-7665-redwood-boulevard,38.1196604,-122.5675246
+191,2599000,mixed use,217800,1625 Buchanan Rd, Pittsburg, CA ,94565,https://www.crexi.com/properties/1653497/california-1625-buchanan-rd,37.9982237,-121.8656198
+192,995000,office,2830,1719 Jefferson St, Oakland, CA ,94612,https://www.crexi.com/properties/1633088/california-jefferson-suites,37.8079801,-122.2735529
+193,3200000,restaurant,5429,540 Sutter St, San Francisco, CA ,94102,https://www.crexi.com/properties/1168977/california-540-sutter-street,37.7892747,-122.4094307
+194,4651851,retail,11777,909 N Amphlett Blvd, San Mateo, CA ,94401,https://www.crexi.com/properties/1614523/california-909-n-amphlett-blvd-san-mateo,37.5844489,-122.3294212
+195,3250000,restaurant,15975,1255 26th St, Oakland, CA ,94607,https://www.crexi.com/properties/1523743/california-the-noodle-factory,37.8190807,-122.2852975
+196,870650,retail,1583,959 Story Rd Bldg H 2nd Floor (5275), San Jose, CA ,95122,https://www.crexi.com/properties/1532613/california-959-story-rd-bldg-h-2nd-floor-5275,37.3324894,-121.8588518
+197,559000,office,1270,5890 Stoneridge Drive, Pleasanton, CA ,94588,https://www.crexi.com/properties/1629932/california-willow-ridge-office-condominiums,37.6960028,-121.9323791
+198,319000,office,3728,3545 Alhambra Way, Martinez, CA ,94553,https://www.crexi.com/properties/1115268/california-3545-alhambra-way,37.998975,-122.1315545
+199,10027374,mixed use,50965,Lathrop Road & North Main Street, Manteca,CA,95336,https://www.crexi.com/properties/138857/california-hwy-99--lathrop-road---manteca-ca,37.8267309,-121.21873
+200,1900000,restaurant,5604,16549 E 14th St, San Leandro, CA ,94578,https://www.crexi.com/properties/1614315/california-16549-e-14th-street,37.6930708,-122.1116963
+201,3500000,mixed use,9583,Cleo Ave, Cupertino, CA ,95014,https://www.crexi.com/properties/1663195/california-00-cleo-ave-cupertino-ca,37.3023039,-122.0348368
+202,2295000,restaurant,2650,249 Grand Ave, South San Francisco, CA ,94080,https://www.crexi.com/properties/1420303/california-249-grand-avenue-south-san-francisco,37.6548823,-122.4098047
+203,2075000,retail,4730,2798 Aiello Dr, San Jose, CA ,95111,https://www.crexi.com/properties/1639627/california-2798-aiello-drive-suites-c-d,37.2943485,-121.8461645
+204,13000000,office,56896,777 Davis St, San Leandro, CA ,94577,https://www.crexi.com/properties/825811/california-kaiser-office-building,37.722907,-122.1628081
+205,998999,restaurant,1839,3531 S El Dorado St, Stockton, CA ,95206,https://www.crexi.com/properties/1559963/california-general-commercial-lot-with-2-home-offices,37.9135913,-121.2774406
+206,10884417,mixed use,55321,5251-5299 Deer Valley Rd, Antioch, CA ,94531,https://www.crexi.com/properties/1651589/california-deer-valley-road-commercial-land,37.9622409,-121.7791012
+207,1350000,restaurant,5522,18600 Hesperian Blvd, Hayward, CA ,94541,https://www.crexi.com/properties/431665/california-18600-hesperian-blvd-ground-lease,37.671106,-122.120898
+208,5595000,retail,9700,4270-4280  Senter road, San Jose, CA ,95111,https://www.crexi.com/properties/1634162/california-4270-4280-senter-road,37.2805315,-121.8229437
+209,1199000,Office,3590,2433 MacArthur Blvd, Oakland, CA ,94602,https://www.crexi.com/properties/1411984/california-mixed-use-residentialcommercial-property-in-dimond-district,37.7994744,-122.213427
+210,682860,retail,1198,959 Story Rd Bldg H 2nd floor (5235), San Jose, CA ,95122,https://www.crexi.com/properties/1532600/california-959-story-rd-bldg-h-2nd-floor-5235,37.3324894,-121.8588518
+211,6500000,Restaurant,26634,3800 Adams Ave, Fremont, CA ,94538,https://www.crexi.com/properties/810527/california-villas-of-irvington,37.5296019,-121.9563258
+212,13353000,office,70280,7901 Oakport St, Oakland, CA ,94621,https://www.crexi.com/properties/1663018/california-desirable-oakland-airport-business-park-hub,37.742429,-122.1993845
+213,658900,retail,1198,959 Story Rd Bldg H 2nd floor(5260), San Jose, CA ,95122,https://www.crexi.com/properties/1532611/california-959-story-rd-bldg-h-2nd-floor5260,37.3324894,-121.8588518
+214,2500000,Services,174240,4019 Sebastopol Rd, Santa Rosa, CA ,94583,https://www.crexi.com/properties/1528809/california-4019-sebastopol-rd,38.4251852,-122.7665006
+215,715000,retail,1890,3336-3338 San Leandro St, Oakland, CA ,94601,https://www.crexi.com/properties/716328/california-3336-3338-san-leandro-street,37.7746647,-122.2252634
+216,4500000,retail,65836,10919 San Pablo Ave, El Cerrito, CA ,94530,https://www.crexi.com/properties/1557349/california-10919-san-pablo-avewnue,37.9161251,-122.3125008
+217,1888888,restaurant,5520,27369 Mission Blvd, Hayward, CA ,94544,https://www.crexi.com/properties/1495030/california-27369-mission-blvd,37.642695,-122.0607574
+218,798600,retail,1210,959 Story Rd Suite 5165, San Jose, CA ,95122,https://www.crexi.com/properties/1472633/california-vietnam-town,37.3328726,-121.8584133
+219,6427829,Services,32670,45 Windhover Way, Martinez, CA ,94553,https://www.crexi.com/properties/1530987/california-windhover-terrace-apartments,38.0094455,-122.0968589
+220,682860,retail,1198,959 Story Rd Bldg H 2nd floor(5250), San Jose, CA ,95122,https://www.crexi.com/properties/1532607/california-959-story-rd-bldg-h-2nd-floor5250,37.3324894,-121.8588518
+221,3443128,services,17500,3003 Filbert St, Oakland, CA ,94608,https://www.crexi.com/properties/1504981/california-filbert-lots,37.8214887,-122.2786691
+222,1300000,retail,4000,945 E 11th St, Oakland, CA ,94606,https://www.crexi.com/properties/1574521/california-945-e-11th-street,37.7908017,-122.252019
+223,1350000,office,2021,2435 Ocean Ave, San Francisco, CA ,94127,https://www.crexi.com/properties/1545555/california-2435-ocean-avenue,37.7302284,-122.4704964
+224,3443128,Services,17500, 3019  Filbert St, Oakland,CA,94608,https://www.crexi.com/properties/1647801/california-3003-3007-3011-3019-filbert-st,37.821818,-122.278608
+225,1100000,retail,2630,9639 International Blvd, Oakland, CA ,94603,https://www.crexi.com/properties/1279686/california-9639-international-blvd-oakland-ca,37.745016,-122.171405
+226,3400000,retail,3750,1399 University Ave, Berkeley, CA ,94702,https://www.crexi.com/properties/1572318/california-1399-university-ave-1384,37.8703382,-122.284514
+227,2100000,office,1530,117 California Ave, Palo Alto, CA ,94306,https://www.crexi.com/properties/1576421/california-117-s-california-ave-palo-alto-d201,37.4284712,-122.1426882
+228,3950000,Restaurant,15102,161 Sand Creek Rd, Brentwood, CA ,94513,https://www.crexi.com/properties/1404308/california-161-sand-creek-road-brentwood-california,37.9482191,-121.6987038
+229,5050000,office,10000,1855 Hamilton Ave, San Jose, CA ,95125,https://www.crexi.com/properties/1661619/california-1855-hamilton-avenue,37.2946662,-121.919556
+230,658900,retail,1198,959 Story Rd Suite 5230, San Jose, CA ,95122,https://www.crexi.com/properties/1532597/california-building-h-2nd-floor5230,37.3328726,-121.8584133
+231,798600,retail,1210,959 Story Rd Building H (5110), San Jose, CA ,95122,https://www.crexi.com/properties/1532561/california-959-story-rd-bldg-h-5110,37.3324894,-121.8588518
+232,798600,retail,1210,959 Story Rd Bldg H 1st floor(5170), San Jose, CA ,95122,https://www.crexi.com/properties/1532577/california-959-story-rd-bldg-h-1st-floor5170,37.3324894,-121.8588518
+233,1999000,services,2490,0000 Polton Pl Way, San Jose, CA ,95121,https://www.crexi.com/properties/1448684/california-prev-rcfe-w-6-bed-lic-gated-7-bedrooms,37.2972936,-121.8096252
+234,5888888,retail,12948,112 Greenhouse Mall, San Leandro, CA ,94579,https://www.crexi.com/properties/1516673/california-112-greenhouse-mall,37.6871035,-122.1386788
+235,2575000,retail,29466,274 - 282 Castro St, Mountain View, CA,94041,https://www.crexi.com/properties/866721/california-iconic-downtown-mountain-view-value-add-owner-user-bldg,37.393055,-122.0796553
+236,750000,services,6534,924 Grant Ave, Novato, CA ,94945,https://www.crexi.com/properties/1158552/california-924-grant-ave,38.1077093,-122.5695055
+237,2350000,retail,2700,2660 Bridgeway, Sausalito, CA ,94965,https://www.crexi.com/properties/1555227/california-2660-bridgeway,37.8689404,-122.5019318
+238,565950,retail,1029,959 Story Rd Bldg H 2nd floor(5280), San Jose, CA ,95122,https://www.crexi.com/properties/1532614/california-959-story-rd-bldg-h-2nd-floor5280,37.3324894,-121.8588518
+239,6899000,retail,1884,1798 Alemany Blvd, SF, CA ,94112,https://www.crexi.com/properties/592691/california-1798-alemany,37.7239092,-122.4378223
+240,1900000,restaurant,5675,433 Grant Ave, SF, CA ,94108,https://www.crexi.com/properties/918698/california-433-grant-avenue,37.7909775,-122.4058557
+241,1300000,retail,3000,581 5th St, Oakland, CA ,94607,https://www.crexi.com/properties/1467478/california-581-5th-street---prime-Retailrestaurantbar-property,37.7992244,-122.2783484
+242,562500,Services,-19832,Minnesota Ave (Lots 3, Brentwood,CA,94513,https://www.crexi.com/properties/1401907/california-last-3-homesites-left-brentwood-ca,37.93954,-121.7145554
+243,999000,retail,4000,110 Tiburon Blvd, Mill Valley, CA ,94941,https://www.crexi.com/properties/1643701/california-sf-bay-area-Retail-musical-instrument-business-for-sale,37.901687,-122.510997
+244,805000,retail,2080,581 Leisure St, Livermore, CA ,94551,https://www.crexi.com/properties/1197224/california-581-leisure-street,37.7102009,-121.7189669
+245,549000,office,1463,135 N Jackson Ave, San Jose, CA ,95116,https://www.crexi.com/properties/1584321/california-135-n-jackson-ave-suite-203,37.3611515,-121.8475078
+246,555000,retail,1925,2710 Park Blvd, Oakland, CA ,94606,https://www.crexi.com/properties/1278938/california-2710-park-blvd,37.8022011,-122.2412891
+247,1995000,retail,3052,1812 Polk St, San Francisco, CA ,94109,https://www.crexi.com/properties/1533208/california-1812-polk-street,37.7936497,-122.4211934
+248,658900,retail,1198,959 Story Rd Suite 5220, San Jose, CA ,95122,https://www.crexi.com/properties/1532593/california-959-story-rd-bldg-h-2nd-floor5220,37.3328726,-121.8584133
+249,950000,retail,2192,814 San Pablo Ave, Albany, CA ,94706,https://www.crexi.com/properties/1496888/california-814-816-san-pablo-ave-albany,37.8917944,-122.2996187
+250,900000,retail,1250,4994 Mission St, San Francisco, CA ,94112,https://www.crexi.com/properties/1665813/california-4994-mission-st,37.7186364,-122.4396705
+251,455000,retail,1152,1055 Soscol Ferry Rd, Napa,CA,94558,https://www.crexi.com/properties/1617254/california-napa-vault---unit-c-111,38.2398182,-122.2741399
+252,1586000,office,1808,1001 Newhall St, San Jose, CA ,95126,https://www.crexi.com/properties/1500256/california-1001-newhall-st,37.3458355,-121.9257192
+253,4750000,restaurant,6000,1861 Union St, San Francisco, CA ,94123,https://www.crexi.com/properties/1640209/california-1861-union-street,37.7976494,-122.429862
+254,2500000,retail,11519,826 B St, San Rafael, CA ,94901,https://www.crexi.com/properties/1468041/california-826-832-b-street-san-rafael,37.9718133,-122.5294292
+255,2800000,office,11196,135 Camino Dorado, Napa, CA ,94558,https://www.crexi.com/properties/1582794/california-135-camino-dorado,38.2297361,-122.2569666
+256,9650000,restaurant,8409,39401 Fremont Blvd, Fremont, CA ,94538,https://www.crexi.com/properties/1507903/california-established-red-lobster-wtremendous-upside-potential,37.5451356,-121.9825141
+257,7700000,office,15000,310 7th St, San Francisco, CA ,94103,https://www.crexi.com/properties/1490088/california-310-7th-street,37.7762275,-122.4075701
+258,21500000,office,33522,595 Lawrence Expy, Sunnyvale, CA ,94085,https://www.crexi.com/properties/894444/california-595-lawrence-expressway-sunnyvale-ca,37.3864613,-121.9970022
+259,4500000,restaurant,5000,2400 Monterey Hwy, San Jose, CA ,95111,https://www.crexi.com/properties/1163342/california-2400-monterey-hwy,37.1729504,-121.694572
+260,5970000,restaurant,6776,165 Jefferson St, SF, CA ,94133,https://www.crexi.com/properties/1168400/california-fishermans-wharf-Retail-office,37.8081944,-122.415233
+261,4000000,services,8200,521 Charcot Ave, San Jose, CA ,95131,https://www.crexi.com/properties/1620957/california-club-sportiva,37.384043,-121.9144208
+262,1480000,office,1165,1058 Lincoln Ave, San Jose, CA ,95125,https://www.crexi.com/properties/1546071/california-1058-lincoln-ave,37.3105235,-121.9022759
+263,4500000,restaurant,5786,101 S Murphy Ave, Sunnyvale, CA ,94086,https://www.crexi.com/properties/1643711/california-101-s-murphy-ave,37.3775865,-122.0300436
+264,18000000,retail,36700,935 Kearny St, San Francisco, CA ,94133,https://www.crexi.com/properties/1541808/california-935-kearny-street,37.796846,-122.4054272
+265,2575000,office,3783,840 The Alameda, San Jose, CA ,95126,https://www.crexi.com/properties/1629052/california-840-the-alameda,37.3315034,-121.906334
+266,4207000,retail,4905,1001 El Camino Real, Menlo Park, CA ,94025,https://www.crexi.com/properties/1569110/california-1001-el-camino-real-menlo-park-ca-94025,37.4527958,-122.1820772
+267,4500000,retail,11105,999 Sutter St, SF, CA ,94109,https://www.crexi.com/properties/865853/california-999-sutter-street,37.788018,-122.4166378
+268,1000000,retail,3743,4201-4203 Park Blvd, Oakland, CA ,94602,https://www.crexi.com/properties/1641559/california-4201-4203-park-blvd,37.8074513,-122.2227769
+269,5500000,retail,24090,100 S Second St, San Jose, CA ,95113,https://www.crexi.com/properties/1498338/california-100-s-2nd,37.3347199,-121.8879052
+270,7700000,Office,22000,990 Ames Ave, Milpitas, CA ,95035,https://www.crexi.com/properties/1583395/california-990-ames-ave,37.4200924,-121.8857783
+271,1500000,retail,7376,7201 International Blvd, Oakland, CA ,94621,https://www.crexi.com/properties/1660918/california-7201-7215-international-blvd,37.759282,-122.18807
+272,4990000,retail,15000,100 Yacht Club Dr, San Rafael, CA ,94901,https://www.crexi.com/properties/1210474/california-100-yacht-club-dr,37.9683415,-122.5165338
+273,1600000,office,2302,1802 San Miguel Dr, Walnut Creek, CA ,94596,https://www.crexi.com/properties/1553613/california-1802-san-miguel-drive-walnut-creek,37.896584,-122.0535147
+274,1800000,retail,1900,221 E San Fernando St, San Jose, CA ,95112,https://www.crexi.com/properties/1542916/california-221-e-san-fernando-st,37.3367201,-121.8847118
+275,3395000,office,4875,573 University Ave, Los Gatos, CA ,95032,https://www.crexi.com/properties/1412192/california-569-573-university-avenue,37.2326783,-121.9778518
+276,1850000,office,7000,2454 Stanwell Dr, Concord, CA ,94520,https://www.crexi.com/properties/1109681/california-2454-stanwell-drive,37.9845121,-122.0479615
+277,3800000,office,6400,1181 Boulevard Way, Walnut Creek, CA ,94595,https://www.crexi.com/properties/1147113/california-1181-boulevard-way,37.8945742,-122.0752776
+278,1800000,office,1751,821 W El Camino Real, Mountain View, CA ,94040,https://www.crexi.com/properties/1472983/california-821-w-el-camino-real,37.3858363,-122.0848319
+279,1345000,retail,1648,201 Guerrero St, San Francisco, CA ,94103,https://www.crexi.com/properties/778145/california-201-guerrero-street-san-francisco-ca-94103,37.767921,-122.424287
+280,3250000,retail,3320,5901 Owens Dr, Pleasanton, CA ,94588,https://www.crexi.com/properties/1615805/california-5901-owens-dr,37.6996289,-121.9034303
+281,2495000,restaurant,6464,650 Lincoln Ave, San Jose, CA ,95126,https://www.crexi.com/properties/1412186/california-650-lincoln-avenue-san-jose,37.3176133,-121.9077304
+282,2250000,office,3300,699 2nd St, San Francisco, CA ,94107,https://www.crexi.com/properties/1152710/california-699-2nd-street,37.780857,-122.3906171
+283,3250000,restaurant,5800,335 S Van Ness Ave, San Francisco, CA ,94103,https://www.crexi.com/properties/1550560/california-335-s-van-ness-ave-san-francisco-ca-94103,37.7678413,-122.4174061
+284,2350000,retail,14000,813 A St, San Rafael, CA ,94901,https://www.crexi.com/properties/1465194/california-813-a-street-san-rafael,37.97177,-122.5287971
+285,8000000,office,11520,511 Sir Francis Drake Blvd, Larkspur, CA ,94904,https://www.crexi.com/properties/996339/california-511-sir-francis-drake-blvd,37.9477975,-122.5266806
+286,1290000,retail,3000,22 E. 10th st, Tracy, CA ,95376,https://www.crexi.com/properties/1578163/california-22-e-10th-st,37.7382772,-121.4253728
+287,7500000,retail,7225,1014 Timothy Dr, San Jose, CA ,95133,https://www.crexi.com/properties/1098412/california-1014-timothy-drive,37.3636287,-121.8798679
+288,2575000,Services,83600,1175 Elko Dr, Sunnyvale, CA ,94089,https://www.crexi.com/properties/1559451/california-1175-elko-drive,37.4070917,-121.9927065
+289,4247600,Restaurant,15170,602 Enterprise Ct, Livermore, CA ,94550,https://www.crexi.com/properties/1413014/california-602-enterprise-court,37.7037046,-121.7001113
+290,2984700,retail,15170,26953 - I Mission Blvd, Hayward, CA ,94544,https://www.crexi.com/properties/1554553/california-edible-arrangements-hayward,37.6443406,-122.0624824
+291,4480000,retail,10624,2221 Railroad Ave, Pittsburg, CA ,94565,https://www.crexi.com/properties/1401696/california-stoneman-plaza,38.0135971,-121.8903469
+292,2575000,office,148846,3060 N First St, San Jose, CA ,95134,https://www.crexi.com/properties/987655/california-3060-3080-north-first-street-san-jose-ca-95134,37.3971894,-121.9339182
+293,1285900,office,2338,2051 Junction Ave, San Jose, CA ,95131,https://www.crexi.com/properties/1465774/california-2051-junction-avenue,37.3825358,-121.9122168
+294,2950000,restaurant,6725,3065 16th St, SF, CA ,94103,https://www.crexi.com/properties/502529/california-3065-16th-street,37.7646392,-122.4209674
+295,2895000,retail,2940,1342 Lincoln Ave, San Jose, CA ,95125,https://www.crexi.com/properties/1290033/california-1342-lincoln-ave,37.304298,-121.897747
+296,8100000,Services,48560,25377 Huntwood Ave, Hayward, CA ,94544,https://www.crexi.com/properties/1570765/california-48500-sf-industrial-property-for-sale,37.6502811,-122.0827496
+297,2990000,restaurant,2384,5724 Thornton Ave, Newark, CA ,94560,https://www.crexi.com/properties/1294732/california-hinodeya-ramen-bar-restaurant,37.5401495,-122.0273942
+298,3196600,retail,16247,1001 Pine St, San Francisco, CA ,94109,https://www.crexi.com/properties/1490099/missouri-1001-pine-street,37.790414,-122.4127327
+299,5988000,retail,22251,21129 Foothill Blvd, Hayward, CA ,94541,https://www.crexi.com/properties/498498/california-21129-foothill-blvd,37.6857452,-122.0937487
+300,3500000,services,5606,1333 Grand Ave, Piedmont, CA ,94610,https://www.crexi.com/properties/1276599/california-piedmont-medicalRetail,37.8206876,-122.2444506
+301,5500000,restaurant,6454,400 E Campbell Ave, Campbell, CA ,95008,https://www.crexi.com/properties/1612887/california-400-e-campbell-ave,37.2869629,-121.9428397
+302,895000,retail,1633,1555 Yosemite Avenue Unit 46, San Francisco, CA ,94124,https://www.crexi.com/properties/1572120/california-san-francisco-bayview-industrial-condo,37.7256587,-122.39012
+303,3095000,retail,2586,2710 Knob Hill Rd, Sonoma, CA ,95476,https://www.crexi.com/properties/1551354/california-sonoma-countryside-home,38.2536458,-122.4171498
+304,1700000,restaurant,5000,1301 -1303 Pomona St, Crockett, CA ,94525,https://www.crexi.com/properties/1326517/california-1301--1303-pomona-st,38.0521569,-122.2238379
+305,1895000,office,4078,851 Del Mar Ave, San Jose, CA ,95128,https://www.crexi.com/properties/1080123/california-851-del-mar-avenue,37.3116005,-121.930756
+306,895000,retail,1000,3635 San Pablo Dam Rd, El Sobrante, CA ,94803,https://www.crexi.com/properties/1330028/california-3635-san-pablo-dam-rd,37.9646081,-122.3176939
+307,1840000,retail,3388,777 San Bruno Ave E, San Bruno, CA ,94066,https://www.crexi.com/properties/1289924/california-777-san-bruno-ave-e,37.6311588,-122.4060548
+308,7500000,retail,13200,1010 Timothy Dr, San Jose, CA ,95133,https://www.crexi.com/properties/1098410/california-1010-timothy-drive,37.3639462,-121.8801374
+309,1600000,services,2592,28827 Mack Street 4, HAYWARD, CA ,94545,https://www.crexi.com/properties/1630720/california-28827-mack-street-4,37.6538031,-122.1312911
+310,3625000,retail,13750,1550 Union Street, San Francisco, CA ,94123,https://www.crexi.com/properties/1655893/california-the-union-garage,37.7987242,-122.4249944
+311,1799000,services,2760,20 Linden Ave, South San Francisco, CA ,94080,https://www.crexi.com/properties/1581426/california-20-24-linden-avenue,37.653074,-122.4106557
+312,2750000,office,6214,1305 Grant Ave, Novato, CA ,94945,https://www.crexi.com/properties/993692/california-1305-grant-ave,38.1081038,-122.5739653
+313,19750000,Office,43250,2575 E Bayshore Rd, Redwood City, CA ,94063,https://www.crexi.com/properties/1489156/california-2575-e-bayshore-rd,37.4875962,-122.1991589
+314,4600000,retail,13800,30351 Huntwood Ave, Hayward, CA ,94544,https://www.crexi.com/properties/1295013/california-30351-hunt-wood-avenue,37.6207563,-122.0565579
+315,1716000,retail,2640,2580 Wyandotte St, Mountain View, CA ,94043,https://www.crexi.com/properties/1489911/california-2580-wyandotte-st-unit-f,37.4174,-122.1009302
+316,3888888,services,5875,1120-1126 Broadway, BURLINGAME, CA ,94010,https://www.crexi.com/properties/1630723/california-1120-1126-broadway,37.587256,-122.3640346
+317,2068000,services,2900,1524-1526 Irving St, San Francisco, CA ,94122,https://www.crexi.com/properties/1338762/california-1524-1526-irving-st,37.7638897,-122.4744212
+318,3940000,Restaurant,14418,315 25th St, Richmond, CA ,94804,https://www.crexi.com/properties/1580583/california-315-25th-st-20-unit-apartament-building,37.9357138,-122.3455114
+319,2150000,retail,2642,3014 Union Ave, San Jose, CA ,95124,https://www.crexi.com/properties/1464733/california-3014-union-avenue,37.2668292,-121.9311275
+320,495000,office,637,150 Redwood St, San Francisco, CA ,94102,https://www.crexi.com/properties/1531219/california-commercial-condo-in-cultural-center,37.7807367,-122.4195313
+321,5016626,retail,25000,3320 N Tracy Blvd, Tracy, CA ,95376,https://www.crexi.com/properties/1422021/california-3320-tracy-blvd,37.7608884,-121.4330293
+322,1245000,retail,3000,1165 Revere Ave, San Francisco, CA ,94124,https://www.crexi.com/properties/1524732/california-1165-revere-ave,37.7268442,-122.3821883
+323,1600000,office,4535,116 Washington Ave, Richmond, CA ,94801,https://www.crexi.com/properties/1491152/california-116-washington-st,37.9270511,-122.3852397
+324,1395000,retail,2000,201 19th Ave, San Francisco, CA ,94121,https://www.crexi.com/properties/1524447/california-201-19th-ave,37.7840026,-122.4789109
+325,3400000,retail,4800,2816 Middlefield Rd, Redwood City, CA ,94063,https://www.crexi.com/properties/1289143/california-2816-middlefield-rd,37.4757279,-122.21042
+326,4750000,retail,8194,6300 Napa Vallejo Highway, Napa, CA ,94558,https://www.crexi.com/properties/1531636/california-6300-napa-vallejo-highway,38.213868,-122.258485
+327,1150000,office,3456,3400 Sonoma Blvd, Vallejo, CA ,94590,https://www.crexi.com/properties/1558389/california-3400-sonoma-blvd,38.1206558,-122.2546602
+328,1250000,Retail,2480,6842 Mission St, Daly City, CA ,94014,https://www.crexi.com/properties/1154165/california-6842-mission-street---production,37.6986993,-122.4643376
+329,7284873,retail,37026,1019 High St, Oakland, CA ,94601,https://www.crexi.com/properties/1551057/california-1015-1019-high-street-oakland-commercial-lot-warehouse,37.7712711,-122.2169811
+330,5750000,Office,17610,1716 University Ave, Berkeley, CA ,94703,https://www.crexi.com/properties/1505761/california-1716-1732-university-ave,37.870891,-122.2770501
+331,1050000,retail,7108,408 O St, Antioch, CA ,94509,https://www.crexi.com/properties/1472189/california-408-o-street,38.0149163,-121.8237525
+332,3799999,office,14878,309-311 Lennon Ln, Walnut Creek, CA ,94598,https://www.crexi.com/properties/810733/california-309-311-lennon-lane,37.926177,-122.030176
+333,1195000,office,2575,290 King St, San Francisco, CA ,94107,https://www.crexi.com/properties/1298233/california-290-king-street-unit-12,37.7769416,-122.3939376
+334,6000000,Services,284540,Napa Airport Corporate Center, American Canyon, CA ,94503,https://www.crexi.com/properties/841392/california-napa-airport-corporate-center,38.2193627,-122.274314
+335,3100000,retail,3750,410 Harriet St, San Francisco, CA ,94103,https://www.crexi.com/properties/1632870/california-410-harriet-st,37.7740006,-122.4013387
+336,6370000,Services,35390,421 Executive Ct N, Fairfield, CA ,94534,https://www.crexi.com/properties/1451821/california-fairfield-executive-court-parcel-a,38.2302691,-122.1232835
+337,5335000,Services,45792,427 Executive Ct N, Fairfield, CA ,94534,https://www.crexi.com/properties/1451832/california-fairfield-executive-court-parcel-b,38.230339,-122.122573
+338,1350000,retail,3958,1344 4th St, San Rafael, CA ,94901,https://www.crexi.com/properties/1580463/california-1344-4th-st,37.9736035,-122.5317914
+339,190000,services,1400,2929 N Macarthur Drive 149, Tracy, CA ,95376,https://www.crexi.com/properties/1510270/california-2929-n-macarthur-drive-149,37.7585014,-121.4165036
+340,860000,retail,2128,2800 Lone Tree Wy, Antioch, CA ,94509,https://www.crexi.com/properties/1614720/california-2800-lone-tree-way,37.9951846,-121.8080133
+341,569000,office,3234,1615 Hill Rd, Novato, CA ,94947,https://www.crexi.com/properties/1012854/california-1615-hill-drive,38.0975483,-122.5788072
+342,1000000,office,2021,2429 Ocean Ave, San Francisco, CA ,94127,https://www.crexi.com/properties/1629853/california-2429-ocean-avenue,37.7301703,-122.4703527
+343,5750000,office,13741,333 Broadway, San Francisco, CA ,94133,https://www.crexi.com/properties/1471747/california-333-broadway-in-jackson-square,37.7982617,-122.402711
+344,2252593,services,11449,1509 A St, Antioch, CA ,94509,https://www.crexi.com/properties/1491859/california-lil-manuels,38.0068045,-121.8056104
+345,5200000,retail,4775,321 California Ave, Palo Alto, CA ,94306,https://www.crexi.com/properties/1284195/california-321-california-avenue,37.4270502,-122.1438461
+346,4000000,services,4880,2301-2309 Webster St, San Francisco, CA ,94115,https://www.crexi.com/properties/1561529/california-webster-and-washington-pacific-heights,37.791994,-122.432948
+347,2495000,retail,4200,495 S Second St, San Jose, CA ,95125,https://www.crexi.com/properties/1516545/california-495-s-2nd-street,37.3292398,-121.8841429
+348,2800000,retail,10000,2908 Chapman St, Oakland, CA ,94601,https://www.crexi.com/properties/1198798/california-2908-chapman-st,37.7734924,-122.2326572
+349,17000000,office,35590,295-299 Bay St, San Francisco, CA ,94133,https://www.crexi.com/properties/1327346/california-295-299-bay-street,37.805548,-122.411609
+350,1549500,Restaurant,5227,1065 W El Camino Real, Mountain View, CA ,94040,https://www.crexi.com/properties/1232856/california-1065-el-camino-real,37.3868932,-122.0869179
+351,4700000,Restaurant,18825,1680 14th Street, Oakland, CA ,94607,https://www.crexi.com/properties/1649583/california-1680-14th-street,37.8127174,-122.2960538
+352,8000000,Restaurant,28689,2591 Kerner Blvd, San Rafael, CA ,94901,https://www.crexi.com/properties/1010362/california-2591-2597-kerner-boulevard,37.949195,-122.492192
+353,8200000,Restaurant,29839,910 Meridian Ave, San Jose, CA ,95126,https://www.crexi.com/properties/1455121/california-100-affordable-housing-opportunity,37.3102699,-121.9133399
+354,10600000,Retail,20377,1289 Anvilwood Ave, Sunnyvale, CA ,94089,https://www.crexi.com/properties/629678/california-1287-1289-anvilwood,37.4088551,-121.9943877
+355,4225604,services,21477,3432 High St, Oakland, CA ,94619,https://www.crexi.com/properties/1400295/california-excess-land-walgreens-store-not-included,37.7864195,-122.1966309
+356,2227500,services,2820,507 Woodside Rd, Redwood City, CA ,94061,https://www.crexi.com/properties/1573847/california-507-woodside-rd-redwood-city-ca,37.4701195,-122.2230934
+357,848000,retail,3960,8807 Thornton Rd, Stockton, CA ,95209,https://www.crexi.com/properties/1405656/california-thornton-village,38.0299884,-121.3344441
+358,13000000,services,21720,1499 California St, San Francisco, CA ,94109,https://www.crexi.com/properties/1541804/california-1499-california-street,37.7906167,-122.4186984
+359,2350000,Services,20716,1665 Alum Rock Ave, San Jose, CA ,95116,https://www.crexi.com/properties/1645243/california-1665-alum-rock-ave,37.3526442,-121.8568502
+360,3200000,retail,9848,724 4th St, San Rafael, CA ,94901,https://www.crexi.com/properties/1580451/california-724-4th-st,37.9728284,-122.5230925
+361,8700000,Office,18528,33439 Western Ave, Union City, CA ,94587,https://www.crexi.com/properties/1651615/california-westpak-union-city,37.5949456,-122.0342929
+362,3950000,office,18895,5 Commercial Blvd, Novato, CA ,94949,https://www.crexi.com/properties/1012851/california-5-commercial-blvd,38.0687144,-122.5342949
+363,2298000,office,31981,760 Meridian Way, San Jose, CA ,95126,https://www.crexi.com/properties/862106/california-760-792-meridian-way,37.3134277,-121.9132205
+364,799000,retail,2538,1876 23rd St, San Pablo, CA ,94806,https://www.crexi.com/properties/1209536/california-1876-23rd-street,37.9581264,-122.3467447
+365,5100000,retail,13424,2470 Telegraph Ave, Berkeley, CA ,94704,https://www.crexi.com/properties/1534575/california-david-baker-building,37.8655637,-122.2587518
+366,1950000,office,5000,124 Washington Ave, Richmond, CA ,94801,https://www.crexi.com/properties/1491153/california-124-washington-ave,37.9269873,-122.3852881
+367,558000,services,2253,223 El Camino Real, SAN BRUNO, CA ,94066,https://www.crexi.com/properties/1496194/california-223-el-camino-real,37.6184656,-122.4097457
+368,1595000,office,3108,521 Charcot Ave, San Jose, CA ,95131,https://www.crexi.com/properties/1541879/california-club-sportiva,37.384043,-121.9144208
+369,5000000,restaurant,7000,4910 Dublin Blvd, Dublin, CA ,94568,https://www.crexi.com/properties/650056/california-4910-dublin-boulevard,37.7033228,-121.884709
+370,2000000,Services,22875,32513 Mission Blvd, Hayward, CA ,94544,https://www.crexi.com/properties/1613121/california-32513-mission-blvd-hayward-ca-94544,37.6122686,-122.0274974
+371,3750000,retail,12770,4917 International Blvd, Oakland, CA ,94601,https://www.crexi.com/properties/1551880/california-kelly-moore-paints-4917-international-blvd,37.7694193,-122.2094559
+372,6200000,services,25602,551 Gateway Dr, Napa, CA ,94558,https://www.crexi.com/properties/537977/california-assisted-living,38.2236559,-122.2658282
+373,695000,retail,1531,310-322 San Anselmo Ave, San Anselmo, CA ,94960,https://www.crexi.com/properties/1210463/california-310-322-san-anselmo-ave,37.9728782,-122.561965
+374,4850000,office,5808,20 El Camino Real, Redwood City, CA ,94062,https://www.crexi.com/properties/1489160/california-20-el-camino-real,37.4931784,-122.2441414
+375,11310000,Restaurant,42677,37620 Filbert St, Newark, CA ,94560,https://www.crexi.com/properties/1050180/california-37620-filbert-street,37.5233336,-122.0346063
+376,2184000,services,2592,28827 Mack Street, HAYWARD, CA ,94545,https://www.crexi.com/properties/1630722/california-28827-mack-street,37.6538031,-122.1312911
+377,5300000,office,17779,828 San Pablo Ave, Albany, CA ,94706,https://www.crexi.com/properties/1532835/california-828-san-pablo-avenue,37.8914861,-122.2997228
+378,4950000,restaurant,5000,2029 Market St, San Francisco, CA ,94114,https://www.crexi.com/properties/879108/california-2029-market-street,37.7683588,-122.4274729
+379,2100000,Services,76766,6183 W Banner Rd., Lodi, CA ,95242,https://www.crexi.com/properties/1519054/california-6183-w-banner-rd-lodi-hwy-12-interstate-5,38.115224,-121.391023
+380,2189998,retail,2548,1136 E Hamilton Ave, Campbell, CA ,95008,https://www.crexi.com/properties/1172489/california-1136-e-hamilton-ave,37.2940963,-121.9293337
+381,12757000,Retail,16571,7121 Amador Plaza Rd, Dublin, CA ,94568,https://www.crexi.com/properties/890336/california-7121-amador-plaza-rd,37.70732,-121.9278386
+382,1958845,retail,9956,218 I St, Antioch, CA ,94509,https://www.crexi.com/properties/802030/california-218-i-street,38.0163355,-121.8160917
+383,1900000,office,40308,1233-1235 Howard St, San Francisco, CA ,94103,https://www.crexi.com/properties/667960/california-1233-1235-howard-st,37.7756729,-122.411829
+384,9840000,office,126000,620 N Aurora St, Stockton, CA ,95202,https://www.crexi.com/properties/1540123/california-620-n-aurora-st,37.9609402,-121.2800315
+385,750000,office,4393,306-308 Military West, Benicia, CA ,94510,https://www.crexi.com/properties/1233492/california-306-308-military-west,38.0558387,-122.1600987
+386,1200000,restaurant,5673,3640 E 9th St, Oakland, CA ,94601,https://www.crexi.com/properties/1463159/california-3640-e-9th-st-oakland-ca,37.7720541,-122.2234862
+387,18500000,services,97125,1655 Berryessa Rd, San Jose, CA ,95133,https://www.crexi.com/properties/797586/california-1655-berryessa-road,37.3726028,-121.8769307
+388,985000,office,6000,519 Capitol St, Vallejo, CA ,94590,https://www.crexi.com/properties/1403549/california-519-525-capitol-street-vallejo-california,38.1029693,-122.2559241
+389,3400000,office,8526,1710 Franklin St, Oakland, CA ,94612,https://www.crexi.com/properties/1097042/california-1710-franklin-street,37.8063326,-122.2681808
+390,2000000,restaurant,5900,510 W MacArthur Blvd, Oakland, CA ,94609,https://www.crexi.com/properties/678254/california-510-w-macarthur-blvd,37.8269635,-122.2656837
+391,11500000,Office,38289,1111 Pennsylvania Ave, SF, CA ,94107,https://www.crexi.com/properties/1023362/california-1111-pennsylvania-avenue,37.7522858,-122.3921852
+392,6250000,office,15690,2015 Pioneer Ct, San Mateo, CA ,94403,https://www.crexi.com/properties/1324733/california-2015-pioneer-ct-san-mateo,37.5472049,-122.3117197
+393,2100000,retail,1875,825 W El Camino Real, Mountain View, CA ,94040,https://www.crexi.com/properties/1646539/california-825-w-el-camino-real,37.3859835,-122.0849651
+394,500000,Services,8276,1770 Clayton Rd, Concord, CA ,94520,https://www.crexi.com/properties/1518106/california-approved-5-unit-townhome-development-site,37.9727906,-122.0377564
+395,4700000,office,8580,1080 Carol Lane, Lafayette, CA ,94549,https://www.crexi.com/properties/678424/california-1080-carol-lane,37.8956071,-122.102551
+396,2716333,office,13806,415 Railroad Ave, Pittsburg, CA ,94565,https://www.crexi.com/properties/1613147/california-415-railroad-ave-pittsburg,38.0323299,-121.8834407
+397,8416186,Services,42776,1704 E Fremont St, Stockton, CA ,95205,https://www.crexi.com/properties/1492369/california-1704-e-fremont-st-stockton-ca-95205,37.960715,-121.269828
+398,3500000,Services,34412,36341 Mission Blvd, Fremont, CA ,94536,https://www.crexi.com/properties/1529708/california-13-unit-near-shovel-ready-development-in-fremont,37.58088,-121.991563
+399,600000,office,3500,801 California St, Stockton, CA ,95206,https://www.crexi.com/properties/791104/california-801-s-california-st,37.945399,-121.2826158
+400,8700000,Office,18528,33439 Western Ave, Union City, CA ,94587,https://www.crexi.com/properties/1651615/california-westpak-union-city,37.5949456,-122.0342929
+401,3950000,office,18895,5 Commercial Blvd, Novato, CA ,94949,https://www.crexi.com/properties/1012851/california-5-commercial-blvd,38.0687144,-122.5342949
+402,2298000,office,31981,760 Meridian Way, San Jose, CA ,95126,https://www.crexi.com/properties/862106/california-760-792-meridian-way,37.3134277,-121.9132205
+403,799000,retail,2538,1876 23rd St, San Pablo, CA ,94806,https://www.crexi.com/properties/1209536/california-1876-23rd-street,37.9581264,-122.3467447
+404,5100000,retail,13424,2470 Telegraph Ave, Berkeley, CA ,94704,https://www.crexi.com/properties/1534575/california-david-baker-building,37.8655637,-122.2587518
+405,1950000,office,5000,124 Washington Ave, Richmond, CA ,94801,https://www.crexi.com/properties/1491153/california-124-washington-ave,37.9269873,-122.3852881
+406,558000,services,2253,223 El Camino Real, SAN BRUNO, CA ,94066,https://www.crexi.com/properties/1496194/california-223-el-camino-real,37.6184656,-122.4097457
+407,1595000,office,3108,521 Charcot Ave, San Jose, CA ,95131,https://www.crexi.com/properties/1541879/california-club-sportiva,37.384043,-121.9144208
+408,5000000,restaurant,7000,4910 Dublin Blvd, Dublin, CA ,94568,https://www.crexi.com/properties/650056/california-4910-dublin-boulevard,37.7033228,-121.884709
+409,2000000,Services,22875,32513 Mission Blvd, Hayward, CA ,94544,https://www.crexi.com/properties/1613121/california-32513-mission-blvd-hayward-ca-94544,37.6122686,-122.0274974
+410,3750000,retail,12770,4917 International Blvd, Oakland, CA ,94601,https://www.crexi.com/properties/1551880/california-kelly-moore-paints-4917-international-blvd,37.7694193,-122.2094559
+411,6200000,services,25602,551 Gateway Dr, Napa, CA ,94558,https://www.crexi.com/properties/537977/california-assisted-living,38.2236559,-122.2658282
+412,695000,retail,1531,310-322 San Anselmo Ave, San Anselmo, CA ,94960,https://www.crexi.com/properties/1210463/california-310-322-san-anselmo-ave,37.9728782,-122.561965
+413,4850000,office,5808,20 El Camino Real, Redwood City, CA ,94062,https://www.crexi.com/properties/1489160/california-20-el-camino-real,37.4931784,-122.2441414
+414,11310000,Restaurant,42677,37620 Filbert St, Newark, CA ,94560,https://www.crexi.com/properties/1050180/california-37620-filbert-street,37.5233336,-122.0346063
+415,5184000,services,2592,28827 Mack Street, HAYWARD, CA ,94545,https://www.crexi.com/properties/1630722/california-28827-mack-street,37.6538031,-122.1312911
+416,5300000,office,17779,828 San Pablo Ave, Albany, CA ,94706,https://www.crexi.com/properties/1532835/california-828-san-pablo-avenue,37.8914861,-122.2997228
+417,4950000,restaurant,5000,2029 Market St, San Francisco, CA ,94114,https://www.crexi.com/properties/879108/california-2029-market-street,37.7683588,-122.4274729
+418,2100000,Services,76766,6183 W Banner Rd., Lodi, CA ,95242,https://www.crexi.com/properties/1519054/california-6183-w-banner-rd-lodi-hwy-12-interstate-5,38.115224,-121.391023
+419,1900000,office,40308,1233-1235 Howard St, San Francisco, CA ,94103,https://www.crexi.com/properties/667960/california-1233-1235-howard-st,37.7756729,-122.411829
+420,9840000,office,126000,620 N Aurora St, Stockton, CA ,95202,https://www.crexi.com/properties/1540123/california-620-n-aurora-st,37.9609402,-121.2800315
+421,750000,office,4393,306-308 Military West, Benicia, CA ,94510,https://www.crexi.com/properties/1233492/california-306-308-military-west,38.0558387,-122.1600987
+422,1200000,restaurant,5673,3640 E 9th St, Oakland, CA ,94601,https://www.crexi.com/properties/1463159/california-3640-e-9th-st-oakland-ca,37.7720541,-122.2234862
+423,18500000,Services,97125,1655 Berryessa Rd, San Jose, CA ,95133,https://www.crexi.com/properties/797586/california-1655-berryessa-road,37.3726028,-121.8769307
+424,985000,office,6000,519 Capitol St, Vallejo, CA ,94590,https://www.crexi.com/properties/1403549/california-519-525-capitol-street-vallejo-california,38.1029693,-122.2559241
+425,3400000,office,8526,1710 Franklin St, Oakland, CA ,94612,https://www.crexi.com/properties/1097042/california-1710-franklin-street,37.8063326,-122.2681808
+426,2000000,restaurant,5900,510 W MacArthur Blvd, Oakland, CA ,94609,https://www.crexi.com/properties/678254/california-510-w-macarthur-blvd,37.8269635,-122.2656837
+427,6250000,office,15690,2015 Pioneer Ct, San Mateo, CA ,94403,https://www.crexi.com/properties/1324733/california-2015-pioneer-ct-san-mateo,37.5472049,-122.3117197
+428,2100000,retail,1875,825 W El Camino Real, Mountain View, CA ,94040,https://www.crexi.com/properties/1646539/california-825-w-el-camino-real,37.3859835,-122.0849651
+429,500000,Services,8276,1770 Clayton Rd, Concord, CA ,94520,https://www.crexi.com/properties/1518106/california-approved-5-unit-townhome-development-site,37.9727906,-122.0377564
+430,4700000,Retail,8580,1080 Carol Lane, Lafayette, CA ,94549,https://www.crexi.com/properties/678424/california-1080-carol-lane,37.8956071,-122.102551
+431,2716333,Services,13806,415 Railroad Ave, Pittsburg, CA ,94565,https://www.crexi.com/properties/1613147/california-415-railroad-ave-pittsburg,38.0323299,-121.8834407
+432,3825000,Office,8015,Westover Dr, Oakland, CA ,94603,https://www.crexi.com/properties/1535898/california-0-westover-drive,37.8295559,-122.1973525
+433,8416186,Services,42776,1704 E Fremont St, Stockton, CA ,95205,https://www.crexi.com/properties/1492369/california-1704-e-fremont-st-stockton-ca-95205,37.960715,-121.269828
+434,3500000,Services,34412,36341 Mission Blvd, Fremont, CA ,94536,https://www.crexi.com/properties/1529708/california-13-unit-near-shovel-ready-development-in-fremont,37.58088,-121.991563
+435,600000,office,3500,801 California St, Stockton, CA ,95206,https://www.crexi.com/properties/791104/california-801-s-california-st,37.945399,-121.2826158
+436,1450000,office,3180,499 Devlin Rd, Napa, CA ,94558,https://www.crexi.com/properties/1615920/california-499-devlin-rd,38.2231369,-122.2629801
+437,1500000,restaurant,5064,10657 Pearmain St, Oakland, CA ,94603,https://www.crexi.com/properties/1548219/california-10657-pearmain,37.7333356,-122.1755653
+438,1100000,retail,3500,296 Albion Ave, San Lorenzo, CA ,94580,https://www.crexi.com/properties/1523937/california-296-albion-ave,37.6854596,-122.1275206
+439,4550000,Services,27443,4146 Mitzi Dr, San Jose, CA ,95117,https://www.crexi.com/properties/1502746/california-4146-mitzi-drive,37.3047105,-121.9753627
+440,2900000,retail,14270,651 Stone Rd, Benicia, CA ,94510,https://www.crexi.com/properties/1503288/california-651-stone,38.0750574,-122.1246681
+441,5900000,services,11000,181 Mahew way, Pleasant Hill, CA ,94523,https://www.crexi.com/properties/1552531/california-181-mahew-way,37.9373062,-122.0538073
+442,1950000,retail,11500,2534 Florida Ave, Richmond, CA ,94804,https://www.crexi.com/properties/1463131/california-2534-florida-ave-richmond-ca-94804,37.9291212,-122.3447582
+443,4950000,Restaurant,21000,8383 Capwell Dr, Oakland, CA ,94621,https://www.crexi.com/properties/1077715/california-8383-capwell-drive,37.7369439,-122.2021644
+444,16000000,services,57448,1745 Market St, SF, CA ,94103,https://www.crexi.com/properties/1071781/california-1745-market-street,37.7719725,-122.4230255
+445,500000,Services,7405,463 Farallon Ave, Pacifica, CA ,94044,https://www.crexi.com/properties/1639488/california-463-farallon-ave,37.6540423,-122.4838661
+446,3140000,services,2490,14521 Big Basin Wy, Saratoga, CA ,95070,https://www.crexi.com/properties/1532480/california-14521-big-basin-way,37.257204,-122.034498
+447,2000000,office,4609,2041 Polk St, San Francisco, CA ,94109,https://www.crexi.com/properties/1553092/california-2041-polk-street,37.7955704,-122.4219889
+448,695000,office,1715,4320 Redwood Hwy, San Rafael, CA ,94903,https://www.crexi.com/properties/1580462/california-4320-redwood-hwy-ste-400,38.01476,-122.5387546
+449,2160000,retail,1358,795 S Second St, San Jose, CA ,95112,https://www.crexi.com/properties/1646552/california-795-s-2nd-street,37.3245806,-121.880876
+450,4500000,office,18990,735 Bryant St, San Francisco, CA ,94107,https://www.crexi.com/properties/1577921/california-735-bryant-street,37.7769646,-122.4008924
+451,1100000,office,4204,340 Cumberland St, Pittsburg, CA ,94565,https://www.crexi.com/properties/1583701/california-340-cumberland-street,38.0328737,-121.8826101
+452,1390000,office,7382,820-824 Alhambra Avenue, Martinez, CA ,94553,https://www.crexi.com/properties/889776/california-820-824-alhambra-avenue,38.0154353,-122.1375469
+453,147888,mixed use,4950,1970 Seminary Ave, Oakland, CA ,94621,https://www.crexi.com/properties/1569222/california-seminary,37.7679813,-122.1951553
+454,8227700,mixed use,41818,2 Charles Hill Cir, Orinda, CA ,94563,https://www.crexi.com/properties/1499516/california-charles-hill,37.895148,-122.1700492
+455,3250000,retail,9160,522 Grant Ave, San Francisco, CA ,94108,https://www.crexi.com/properties/920922/california-522-528-grant-ave,37.7918312,-122.4057586
+456,2850000,office,13700,1036 A St, Hayward, CA ,94541,https://www.crexi.com/properties/498372/california-1036-a-st,37.6747051,-122.083242
+457,2950000,office,2985,15151 National Ave #207, Los Gatos, CA ,95032,https://www.crexi.com/properties/840850/california-los-gatos-surgery-center-suite-207,37.2481558,-121.9511386
+458,6789062,Services,34506,6 Patrick Ln, Orinda, CA ,94563,https://www.crexi.com/properties/1626652/california-6-patrick-ln,37.87521,-122.156242
+459,799000,retail,2201,50 29th St, San Francisco, CA ,94110,https://www.crexi.com/properties/833599/california-50-29th-st,37.7441807,-122.4214636
+460,5150000,retail,9573,11820 San Pablo Ave, El Cerrito, CA ,94530,https://www.crexi.com/properties/1304119/california-11820-san-pablo-ave-el-cerrito-ca-94530-1752,37.928521,-122.3200965
+461,1977339,retail,10050,7025 International Blvd, Oakland, CA ,94621,https://www.crexi.com/properties/1343759/california-7025-international-blvd,37.7598895,-122.1891999
+462,500000,retail,1464,443 8th St, Oakland, CA ,94607,https://www.crexi.com/properties/1528759/california-443-1c-8th-st,37.8000002,-122.2736029
+463,1600000,services,3900,1336 Van Ness Ave, San Francisco, CA ,94109,https://www.crexi.com/properties/1404372/california-dental-building-for-sale,37.7882054,-122.4216074
+464,999000,services,3377,1241 Powell St, San Francisco, CA ,94133,https://www.crexi.com/properties/1337142/california-1241-powell-st,37.7962211,-122.4102299
+465,250000,retail,1000,435 8th St, Oakland, CA ,94607,https://www.crexi.com/properties/1528770/california-435-3a-8th-st-oakland-ca,37.7999429,-122.2735635
+466,6000000,services,10500,2 Miller Ave, Mill Valley, CA ,94941,https://www.crexi.com/properties/1460025/california-2-miller-avenue,37.9061071,-122.5480707
+467,499950,office,1498,5159 Lone Tree Wy, Antioch, CA ,94531,https://www.crexi.com/properties/559760/california-venture-commerce-antioch-lone-tree-way,37.9622708,-121.7558104
+468,5313632,Services,27007,5133 S St Rt 99 W Frontage Rd, Stockton, CA ,95212,https://www.crexi.com/properties/1655684/california-5133-s-st-rt-99-w-frontage-rd-stockton-ca-95212,37.900818,-121.220804
+469,700000,services,4500,420 Marin Street, Vallejo, CA ,94590,https://www.crexi.com/properties/529319/california-420-marin-street,38.0997789,-122.2564931
+470,683775,office,1013,2211 Moorpark Ave Suite 250, San Jose, CA ,95128,https://www.crexi.com/properties/1644618/california-moorpark-professional-center,37.3164265,-121.932645
+471,2534700,retail,14910,96 E santa clara st, San Jose, CA ,95113,https://www.crexi.com/properties/1645592/california-96-e-santa-clara-st-2nd-3rd-floors,37.3368966,-121.8885233
+472,1200000,office,3400,1752 Lincoln Ave, San Rafael, CA ,94901,https://www.crexi.com/properties/1012857/california-1752-lincoln-ave,37.9863155,-122.5259295
+473,899999,retail,2592,1300 Galaxy Way, Concord, CA ,94520,https://www.crexi.com/properties/1443891/california-1300-galaxy-way,37.9763454,-122.0506676
+474,498000,office,529,490 Post St, San Francisco, CA ,94102,https://www.crexi.com/properties/1303968/california-490-post-street-suite-239,37.7882282,-122.4098041
+475,8235000,retail,4594,5705 Lone Tree Wy, Antioch, CA ,94531,https://www.crexi.com/properties/1647470/california-chick-fil-a?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.9620987,-121.7407851
+476,495000,restaurant,1583,1 E San Fernando St, San Jose, CA ,95113,https://www.crexi.com/properties/1659721/california-recroom-san-jose?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.3346731,-121.8887824
+477,400000,retail,320,4801 3rd St, San Francisco, CA ,94124,https://www.crexi.com/properties/1634085/california-4801-third-street?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.7345444,-122.3906054
+478,899000,restaurant,2504,360 E William St, San Jose, CA ,95112,https://www.crexi.com/properties/1212399/california-Retail-property-for-sale-in-san-jose-close-to-downtown?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.3320854,-121.8771296
+479,1699999,retail,4636,3060 Fillmore St, San Francisco, CA ,94123,https://www.crexi.com/properties/1634541/california-3060-fillmore-street?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.7978976,-122.4354016
+480,3076000,restaurant,8000,6009 Florin Rd, Sacramento, CA ,95823,https://www.crexi.com/properties/1554107/california-seapot-at-florin-towne-centre?recommId=148073f2b7a91bb3338b93ceb1407c0e,38.4964586,-121.4334473
+481,3400000,retail,1790,7616 Pacific Ave, Stockton, CA ,95207,https://www.crexi.com/properties/1660469/california-hammer-ranch-Retail-strip-center-717-cap-100-occupied?recommId=148073f2b7a91bb3338b93ceb1407c0e,38.0191676,-121.3216924
+482,2950000,restaurant,5880,5301 Old Redwood Hwy N, Petaluma, CA ,94954,https://www.crexi.com/properties/1582193/california-applebees?recommId=148073f2b7a91bb3338b93ceb1407c0e,38.2759796,-122.6697294
+483,3150000,retail,8592,3025 Porter St, Soquel, CA ,95073,https://www.crexi.com/properties/1578472/california-soquel-village-mall?recommId=148073f2b7a91bb3338b93ceb1407c0e,36.9888773,-121.9574087
+484,16956000,mixed use,77651, 967 & 968 Golf Course Drive, Rohnert Park,CA,94928,https://www.crexi.com/properties/1568827/california-mountain-shadows-plaza?recommId=148073f2b7a91bb3338b93ceb1407c0e,38.362234,-122.6934289
+485,1725000,retail,7683,1028 11th St, Modesto, CA ,95354,https://www.crexi.com/properties/1556859/california-office-Retail-building-perfect-for-owneruser-or-investor?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.6421279,-120.9999546
+486,4503937,restaurant,3696,1730 Travis Blvd, Fairfield, CA ,94533,https://www.crexi.com/properties/1420623/california-chevys-fresh-mex-restaurant?recommId=148073f2b7a91bb3338b93ceb1407c0e,38.2588288,-122.0590988
+487,1650000,retail,2178,508 E 11th St, Tracy, CA ,95376,https://www.crexi.com/properties/1663501/california-multi-tenant-Retail---e-11th-st-tracy?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.7394002,-121.4171132
+488,1886638,office,9589,900 Bush St, San Francisco, CA ,94109,https://www.crexi.com/properties/1656665/california-900-bush-street?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.7898591,-122.4125833
+489,1500000,retail,7500,809 Texas St, Fairfield, CA ,94533,https://www.crexi.com/properties/1651795/california-809-811-texas-st?recommId=148073f2b7a91bb3338b93ceb1407c0e,38.2491111,-122.0435719
+490,2950000,mixed use,102801.6,3657 Broadway, American Canyon, CA ,94503,https://www.crexi.com/properties/1650278/california-3657-broadway-street?recommId=148073f2b7a91bb3338b93ceb1407c0e,38.1735696,-122.2542503
+491,1500000,restaurant,5304,30 S El Dorado St, Stockton, CA ,95202,https://www.crexi.com/properties/1642772/california-nightclub-restaurant?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.951977,-121.289387
+492,1000000,retail,2157,1019 Solano Ave, Albany, CA ,94706,https://www.crexi.com/properties/1640264/california-1019-solano-ave?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.8902788,-122.3002188
+493,5595000,retail,9700,4270-4280  Senter road, San Jose, CA ,95111,https://www.crexi.com/properties/1634162/california-4270-4280-senter-road?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.2805315,-121.8229437
+494,3800000,retail,7253,7101 Laguna Blvd, Elk Grove, CA ,95758,https://www.crexi.com/properties/1633806/california-7101-laguna-blvd?recommId=148073f2b7a91bb3338b93ceb1407c0e,38.424041,-121.4205833
+495,850000,restaurant,6013,1820 W 10th St, Antioch, CA ,94509,https://www.crexi.com/properties/1633103/california-hazels-drive-in?recommId=148073f2b7a91bb3338b93ceb1407c0e,38.0130532,-121.8301859
+496,5800000,restaurant,6700,1225 Canal Blvd, Ripon, CA ,95366,https://www.crexi.com/properties/1632557/california-falcons-lair?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.7470497,-121.1360391
+497,11500000,retail,3093,8511-8591 Elk Grove Blvd, Elk Grove, CA ,95624,https://www.crexi.com/properties/1582906/california-elk-grove-village?recommId=148073f2b7a91bb3338b93ceb1407c0e,38.4096056,-121.387561
+498,3875000,retail,2878,1290 Franklin Mall, Santa Clara, CA ,95050,https://www.crexi.com/properties/1582113/california-santa-clara-Retail-center---100-occupied-blocks-from-campus?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.3484722,-121.9477941
+499,1738878,retail,8838,421 Maze Blvd, Modesto, CA ,95351,https://www.crexi.com/properties/1581401/california-taylors-smokehouse-formerly-known-as-docs-qin-pit-stop?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.6384353,-121.0127145
+500,3200000,restaurant,7464,3731 Main St, Sebastopol, CA ,95472,https://www.crexi.com/properties/1573016/california-union-hotel?recommId=148073f2b7a91bb3338b93ceb1407c0e,38.4080777,-122.9471561
+501,2052826,retail,2258,1504 Pacific Ave, Stockton, CA ,95204,https://www.crexi.com/properties/1551692/california-jack-in-the-box---stockton-ca?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.9672659,-121.2978407
+502,3400000,restaurant,6052,1309 6th Ave, Belmont, CA ,94002,https://www.crexi.com/properties/1546050/california-mixed-use-property-in-the-heart-of-belmont?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.5174862,-122.2748705
+503,535000,restaurant,6250,112 E Market St, Stockton, CA ,95202,https://www.crexi.com/properties/1546016/california-downtown-Retail-owner-user-opportunity?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.9515416,-121.289076
+504,7500000,retail,38699,700 Main St, Suisun City, CA ,94585,https://www.crexi.com/properties/1526882/california-harbor-square?recommId=148073f2b7a91bb3338b93ceb1407c0e,38.2381186,-122.0403281
+505,200000,restaurant,6352,640 Jackson St, San Francisco, CA ,94133,https://www.crexi.com/properties/1517148/california-shanghai-restaurant-640-jackson-st?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.7962641,-122.4059597
+506,180000,restaurant,5911,917 Taraval St, San Francisco, CA ,94116,https://www.crexi.com/properties/1517120/california-szechuan-restaurant-917-taraval-st?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.7427947,-122.4761126
+507,5689000,restaurant,2787,19900 Sherman Island Cross Rd, Rio Vista, CA ,94571,https://www.crexi.com/properties/1504446/california-vineyard-estate-event-center---profitable-turn-key?recommId=148073f2b7a91bb3338b93ceb1407c0e,38.0335889,-121.7383608
+508,2200000,restaurant,6036,383 1st St, Gilroy, CA ,95020,https://www.crexi.com/properties/1496394/california-383-1st-st?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.0135574,-121.5770241
+509,1300000,restaurant,3000,581 5th St, Oakland, CA ,94607,https://www.crexi.com/properties/1467478/california-581-5th-street---prime-Retailrestaurantbar-property?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.7992244,-122.2783484
+510,1999000,restaurant,5207,466 Eddy St, San Francisco, CA ,94109,https://www.crexi.com/properties/1460599/california-466-eddy-street?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.7838757,-122.4154204
+511,1275000,restaurant,8419,3688 Bohemian Hwy, Occidental, CA ,95465,https://www.crexi.com/properties/1459782/california-barley-and-hops-barrestaurant-location-for-sale?recommId=148073f2b7a91bb3338b93ceb1407c0e,38.4069325,-122.9480784
+512,150000,retail,1817,1217 W March Ln, Stockton, CA ,95207,https://www.crexi.com/properties/1448826/california-ssongs-hotdog?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.9905982,-121.321683
+513,998000,retail,1800,575 1st St, Gilroy, CA ,95020,https://www.crexi.com/properties/1416635/california-commercial-for-sale?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.0136748,-121.5796993
+514,1100000,retail,2630,9639 International Blvd, Oakland, CA ,94603,https://www.crexi.com/properties/1279686/california-9639-international-blvd-oakland-ca?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.745016,-122.171405
+515,1826432,restaurant,9283,140 Encinal St, Santa Cruz, CA ,95060,https://www.crexi.com/properties/1279368/california-own-a-piece-of-santa-cruz-history?recommId=148073f2b7a91bb3338b93ceb1407c0e,36.9868165,-122.0320025
+516,5900000,retail,16395,20 Cosmo Place, San Francisco, CA ,94109,https://www.crexi.com/properties/1277916/california-20-cosmo-place?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.7882282,-122.4124221
+517,5750000,restaurant,6702,2277 San Ramon Valley Blvd, San Ramon, CA ,94583,https://www.crexi.com/properties/1228452/california-sakura?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.7785538,-121.9775083
+518,1999999,restaurant,4177,296 Hegenberger Rd, Oakland, CA ,94621,https://www.crexi.com/properties/1184634/california-296-hegenberger-rd?recommId=148073f2b7a91bb3338b93ceb1407c0e,37.7338856,-122.1976026
+519,2100000,retail,3700,2001 17th St, San Francisco, CA ,94103,https://www.crexi.com/properties/1083471/california-2001-17th-street,37.7645544,-122.4036982
+520,750000,office,8229,321 Hartz Ave, Danville,CA,94526,https://www.crexi.com/properties/799044/california-321-hartz-avenue-2nd-floor-suite-202,37.8221986,-122.0009058
+521,3900000,restaurant,5500,525 Commercial St, San Francisco, CA ,94111,https://www.crexi.com/properties/746444/california-525-commercial-st,37.7942681,-122.4018296
+522,1800000,retail,1900,221 E San Fernando St, San Jose, CA ,95112,https://www.crexi.com/properties/1542916/california-221-e-san-fernando-st,37.3367201,-121.8847118
+523,3250000,retail,3320,5901 Owens Dr, Pleasanton, CA ,94588,https://www.crexi.com/properties/1615805/california-5901-owens-dr,37.6996289,-121.9034303
+524,1750000,restaurant,2800,16236 Main St, Guerneville, CA ,95446,https://www.crexi.com/properties/1195706/california-historic-pats-international-restaurant-of-guerneville,38.5022253,-122.9982475
+525,5500000,restaurant,5000,140 Beach Way, Moss Beach, CA ,94038,https://www.crexi.com/properties/958850/california-moss-beach-distillery,37.5177424,-122.5128669
+526,3250000,retail,9160,522 Grant Ave, San Francisco, CA ,94108,https://www.crexi.com/properties/920922/california-522-528-grant-ave,37.7918312,-122.4057586
+527,1300000,retail,3739,1550 McHenry Ave, Modesto, CA ,95350,https://www.crexi.com/properties/1568477/california-granger-mchenry-l-shaped-lot,37.6668849,-120.9937503
+528,2495000,retail,4200,495 S Second St, San Jose, CA ,95125,https://www.crexi.com/properties/1516545/california-495-s-2nd-street,37.3292398,-121.8841429
+529,2990000,restaurant,2384,5724 Thornton Ave, Newark, CA ,94560,https://www.crexi.com/properties/1294732/california-hinodeya-ramen-bar-restaurant,37.5401495,-122.0273942
+530,5200000,retail,4775,321 California Ave, Palo Alto, CA ,94306,https://www.crexi.com/properties/1284195/california-321-california-avenue,37.4270502,-122.1438461
+531,3600000,restaurant,9839,3121 W Benjamin Holt Dr, Stockton, CA ,95219,https://www.crexi.com/properties/1629694/california-3121-w-benjamin-holt-drive,38.0056044,-121.3529285
+532,6500000,retail,9404,1040 Columbus Ave, San Francisco, CA ,94133,https://www.crexi.com/properties/1003268/california-1040-columbus-ave,37.8041563,-122.4152693
+533,1850000,restaurant,6393,19652 Mission Blvd, Hayward, CA ,94541,https://www.crexi.com/properties/1559724/california-19652-mission-boulevard,37.6880688,-122.1033868
+534,3890000,retail,9140,2904 Freedom Blvd, Watsonville, CA ,95076,https://www.crexi.com/properties/1559787/california-the-5-mile-house,36.963904,-121.8092174
+535,4500000,restaurant,5000,2400 Monterey Hwy, San Jose, CA ,95111,https://www.crexi.com/properties/1163342/california-2400-monterey-hwy,37.1729504,-121.694572
+536,9650000,retail,8409,39401 Fremont Blvd, Fremont, CA ,94538,https://www.crexi.com/properties/1507903/california-established-red-lobster-wtremendous-upside-potential,37.5451356,-121.9825141
+537,3400000,retail,4800,2816 Middlefield Rd, Redwood City, CA ,94063,https://www.crexi.com/properties/1289143/california-2816-middlefield-rd,37.4757279,-122.21042
+538,1995000,services,54885.6,20396 Bohemian Hwy, Monte Rio, CA ,95462,https://www.crexi.com/properties/1156710/california-monte-rio-theater,38.4675885,-123.0102901
+539,4990000,retail,15000,100 Yacht Club Dr, San Rafael, CA ,94901,https://www.crexi.com/properties/1210474/california-100-yacht-club-dr,37.9683415,-122.5165338
+540,5000000,restaurant,7000,4910 Dublin Blvd, Dublin, CA ,94568,https://www.crexi.com/properties/650056/california-4910-dublin-boulevard,37.7033228,-121.884709
+541,2900000,retail,4977,709 Admiral Callaghan Lane, Vallejo, CA ,94591,https://www.crexi.com/properties/462898/california-709-admiral-callaghan-lane-vallejo-ca,38.1238259,-122.2286843
