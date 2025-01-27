@@ -72,7 +72,7 @@ glueContext.write_dynamic_frame.from_options(
         "url": "jdbc:postgresql://mdbinstanceproject.clmkmooaa6hz.us-east-1.rds.amazonaws.com:5432/capstone-project.db",
         "dbtable": "dim_traffic",
         "user": "postgres",
-        "password": "123456789",
+        "password": "your-password",
         "sslmode": "prefer"
     },
     transformation_ctx="write_dim_traffic"
