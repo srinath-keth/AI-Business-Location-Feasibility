@@ -3,7 +3,7 @@
 This project leverages Artificial Intelligence (AI) and Machine Learning (ML) to provide actionable insights for selecting optimal business locations. By integrating data from multiple sources—such as demographics, traffic metrics, and competitor analysis—the project aims to predict the feasibility and success potential of a business at a given location.
 
 ---
-# **System Architecture
+# System Architecture
 
 <img src="architecture diagram.png">
 
