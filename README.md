@@ -35,6 +35,8 @@ This project combines multiple datasets to deliver comprehensive insights for lo
 ### **3. Dimensional Modeling**
 - Data is structured into a **star schema** with fact and dimension tables, enabling efficient querying and machine learning model training.
 <img src="erd.jpeg">
+
+
 ### **4. Machine Learning**
 - **Advanced models** (e.g., Scikit-learn, TensorFlow) predict:
   - **Business Suitability Score** for given locations.
